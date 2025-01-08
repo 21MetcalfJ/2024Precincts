@@ -4,7 +4,7 @@ This data contains results for President, U.S. Senate, and U.S. House.
 
 Precinct boundaries were obtained from the [here](https://rgis.unm.edu/rgis6/). Precinct-level election results were obtained from the [New Mexico Secretary of State](https://electionresults.sos.nm.gov/resultsSW.aspx?type=FED&map=CTY).
 
-Field key:
+Field key:  
 NMData24_1 = Kamala Harris  
 NMData24_2 = Donald Trump  
 NMData24_3 = Total Votes for President  
