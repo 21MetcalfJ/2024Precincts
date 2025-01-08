@@ -1,0 +1,2377 @@
+City/Town,Ward,Pct,JoinField,PresDem,PresRep,PresTot
+Abington,-,1,Abington Precinct 1,1019,905,2001
+Abington,-,2,Abington Precinct 2,833,882,1774
+Abington,-,3,Abington Precinct 3,872,985,1909
+Abington,-,4,Abington Precinct 4,978,954,2002
+Abington,-,5,Abington Precinct 5,1012,913,1989
+Acton,-,1,Acton Precinct 1,1051,359,1473
+Acton,-,2,Acton Precinct 2,1504,397,2004
+Acton,-,3,Acton Precinct 3,1744,388,2241
+Acton,-,4,Acton Precinct 4,1583,377,2057
+Acton,-,5,Acton Precinct 5,1561,354,2000
+Acton,-,6,Acton Precinct 6,1097,220,1375
+Acton,-,6A,Acton Precinct 6A,467,90,584
+Acton,-,7,Acton Precinct 7,1170,351,1597
+Acushnet,-,1,Acushnet Precinct 1,745,1148,1930
+Acushnet,-,2,Acushnet Precinct 2,670,1201,1918
+Acushnet,-,2A,Acushnet Precinct 2A,92,138,233
+Acushnet,-,3,Acushnet Precinct 3,804,1321,2190
+Adams,-,1,Adams Precinct 1,463,277,765
+Adams,-,2,Adams Precinct 2,539,357,924
+Adams,-,3,Adams Precinct 3,529,362,915
+Adams,-,4,Adams Precinct 4,475,303,802
+Adams,-,5,Adams Precinct 5,597,360,989
+Agawam,-,1,Agawam Precinct 1,746,949,1746
+Agawam,-,2,Agawam Precinct 2,929,1190,2190
+Agawam,-,3,Agawam Precinct 3,807,1039,1919
+Agawam,-,4,Agawam Precinct 4,796,807,1654
+Agawam,-,5,Agawam Precinct 5,989,1114,2179
+Agawam,-,6,Agawam Precinct 6,858,1051,1972
+Agawam,-,7,Agawam Precinct 7,907,1174,2139
+Agawam,-,8,Agawam Precinct 8,910,1050,2033
+Alford,-,1,Alford Precinct 1,252,58,326
+Amesbury,-,1,Amesbury Precinct 1,1324,710,2095
+Amesbury,-,2,Amesbury Precinct 2,1130,528,1720
+Amesbury,-,3,Amesbury Precinct 3,1205,540,1802
+Amesbury,-,4,Amesbury Precinct 4,856,533,1429
+Amesbury,-,5,Amesbury Precinct 5,1096,729,1895
+Amesbury,-,6,Amesbury Precinct 6,956,460,1480
+Amherst,-,1A,Amherst Precinct 1A,871,102,1061
+Amherst,-,1B,Amherst Precinct 1B,478,49,556
+Amherst,-,2A,Amherst Precinct 2A,552,62,641
+Amherst,-,2B,Amherst Precinct 2B,1502,171,1744
+Amherst,-,3A,Amherst Precinct 3A,511,63,606
+Amherst,-,3B,Amherst Precinct 3B,1397,165,1632
+Amherst,-,4A,Amherst Precinct 4A,751,55,863
+Amherst,-,4B,Amherst Precinct 4B,473,28,536
+Amherst,-,5A,Amherst Precinct 5A,610,42,693
+Amherst,-,5B,Amherst Precinct 5B,2171,152,2411
+Andover,-,1,Andover Precinct 1,1049,343,1450
+Andover,-,10,Andover Precinct 10,1417,687,2202
+Andover,-,2,Andover Precinct 2,1354,664,2104
+Andover,-,3,Andover Precinct 3,1565,661,2320
+Andover,-,4,Andover Precinct 4,749,465,1260
+Andover,-,4A,Andover Precinct 4A,421,247,700
+Andover,-,5,Andover Precinct 5,1291,788,2153
+Andover,-,6,Andover Precinct 6,1171,751,2031
+Andover,-,7,Andover Precinct 7,1371,722,2189
+Andover,-,8,Andover Precinct 8,1490,709,2295
+Andover,-,9,Andover Precinct 9,1237,653,1975
+Aquinnah,-,1,Aquinnah Precinct 1,304,37,351
+Arlington,-,1,Arlington Precinct 1,756,186,988
+Arlington,-,10,Arlington Precinct 10,1242,133,1433
+Arlington,-,11,Arlington Precinct 11,1149,283,1489
+Arlington,-,12,Arlington Precinct 12,1255,214,1532
+Arlington,-,13,Arlington Precinct 13,1028,348,1431
+Arlington,-,14,Arlington Precinct 14,1029,160,1233
+Arlington,-,15,Arlington Precinct 15,1011,208,1277
+Arlington,-,16,Arlington Precinct 16,1094,208,1354
+Arlington,-,17,Arlington Precinct 17,947,202,1205
+Arlington,-,18,Arlington Precinct 18,1027,295,1371
+Arlington,-,19,Arlington Precinct 19,1095,223,1356
+Arlington,-,2,Arlington Precinct 2,1131,188,1383
+Arlington,-,20,Arlington Precinct 20,1043,201,1297
+Arlington,-,21,Arlington Precinct 21,1140,164,1355
+Arlington,-,3,Arlington Precinct 3,1118,140,1312
+Arlington,-,4,Arlington Precinct 4,1006,172,1241
+Arlington,-,5,Arlington Precinct 5,1148,193,1404
+Arlington,-,6,Arlington Precinct 6,1055,135,1259
+Arlington,-,7,Arlington Precinct 7,1045,182,1296
+Arlington,-,8,Arlington Precinct 8,1193,190,1429
+Arlington,-,9,Arlington Precinct 9,887,194,1119
+Ashburnham,-,1,Ashburnham Precinct 1,947,936,1946
+Ashburnham,-,2,Ashburnham Precinct 2,1018,859,1947
+Ashby,-,1,Ashby Precinct 1,936,1009,2003
+Ashfield,-,1,Ashfield Precinct 1,919,235,1216
+Ashland,-,1,Ashland Precinct 1,975,476,1498
+Ashland,-,2,Ashland Precinct 2,1359,565,2013
+Ashland,-,3,Ashland Precinct 3,1004,436,1514
+Ashland,-,4,Ashland Precinct 4,985,480,1521
+Ashland,-,5,Ashland Precinct 5,1086,458,1598
+Ashland,-,6,Ashland Precinct 6,1180,506,1762
+Athol,-,1,Athol Precinct 1,946,1066,2080
+Athol,-,2,Athol Precinct 2,792,1010,1866
+Athol,-,3,Athol Precinct 3,864,876,1783
+Attleboro,1,A,Attleboro Ward 1 Precinct A,973,903,1943
+Attleboro,1,B,Attleboro Ward 1 Precinct B,923,862,1838
+Attleboro,2,A,Attleboro Ward 2 Precinct A,1178,918,2161
+Attleboro,2,B,Attleboro Ward 2 Precinct B,989,902,1972
+Attleboro,3,A,Attleboro Ward 3 Precinct A,1078,738,1891
+Attleboro,3,B,Attleboro Ward 3 Precinct B,1167,824,2061
+Attleboro,4,A,Attleboro Ward 4 Precinct A,1005,651,1726
+Attleboro,4,B,Attleboro Ward 4 Precinct B,1324,1102,2483
+Attleboro,5,A,Attleboro Ward 5 Precinct A,837,482,1363
+Attleboro,5,B,Attleboro Ward 5 Precinct B,1072,840,1978
+Attleboro,6,A,Attleboro Ward 6 Precinct A,990,892,1949
+Attleboro,6,B,Attleboro Ward 6 Precinct B,1139,893,2112
+Auburn,-,1,Auburn Precinct 1,1081,837,1995
+Auburn,-,2,Auburn Precinct 2,1022,930,2010
+Auburn,-,3,Auburn Precinct 3,1094,988,2146
+Auburn,-,4,Auburn Precinct 4,1081,867,2040
+Auburn,-,5,Auburn Precinct 5,928,890,1882
+Avon,-,1,Avon Precinct 1,1375,1125,2583
+Ayer,-,1,Ayer Precinct 1,914,546,1519
+Ayer,-,2,Ayer Precinct 2,1075,609,1758
+Ayer,-,3,Ayer Precinct 3,881,483,1427
+Barnstable,-,1,Barnstable Precinct 1,1622,942,2636
+Barnstable,-,10,Barnstable Precinct 10,1074,1033,2179
+Barnstable,-,11,Barnstable Precinct 11,1265,1156,2484
+Barnstable,-,12,Barnstable Precinct 12,1274,1105,2454
+Barnstable,-,13,Barnstable Precinct 13,887,607,1530
+Barnstable,-,2,Barnstable Precinct 2,1297,1029,2410
+Barnstable,-,3,Barnstable Precinct 3,990,780,1816
+Barnstable,-,4,Barnstable Precinct 4,1250,862,2189
+Barnstable,-,5,Barnstable Precinct 5,1389,1211,2697
+Barnstable,-,6,Barnstable Precinct 6,1283,1109,2458
+Barnstable,-,7,Barnstable Precinct 7,1536,1063,2700
+Barnstable,-,8,Barnstable Precinct 8,852,681,1571
+Barnstable,-,9,Barnstable Precinct 9,508,341,873
+Barre,-,1,Barre Precinct 1,760,767,1571
+Barre,-,2,Barre Precinct 2,648,858,1554
+Becket,-,1,Becket Precinct 1,743,448,1247
+Bedford,-,1,Bedford Precinct 1,1610,523,2238
+Bedford,-,2,Bedford Precinct 2,941,452,1455
+Bedford,-,2A,Bedford Precinct 2A,271,141,436
+Bedford,-,3,Bedford Precinct 3,1578,557,2230
+Bedford,-,4,Bedford Precinct 4,1474,519,2073
+Belchertown,-,A,Belchertown Precinct A,1477,834,2399
+Belchertown,-,B,Belchertown Precinct B,1361,1175,2611
+Belchertown,-,C,Belchertown Precinct C,1361,1026,2449
+Belchertown,-,D,Belchertown Precinct D,1404,685,2172
+Bellingham,-,1,Bellingham Precinct 1,912,876,1847
+Bellingham,-,2,Bellingham Precinct 2,1034,1002,2120
+Bellingham,-,3,Bellingham Precinct 3,1156,1017,2238
+Bellingham,-,4,Bellingham Precinct 4,904,931,1898
+Bellingham,-,5,Bellingham Precinct 5,888,1043,1983
+Belmont,-,1,Belmont Precinct 1,1379,310,1793
+Belmont,-,2,Belmont Precinct 2,1506,509,2140
+Belmont,-,3,Belmont Precinct 3,1357,329,1778
+Belmont,-,4,Belmont Precinct 4,1144,336,1550
+Belmont,-,5,Belmont Precinct 5,1362,338,1790
+Belmont,-,6,Belmont Precinct 6,1680,356,2139
+Belmont,-,7,Belmont Precinct 7,1411,315,1815
+Belmont,-,8,Belmont Precinct 8,1157,374,1649
+Berkley,-,1,Berkley Precinct 1,888,1323,2267
+Berkley,-,2,Berkley Precinct 2,724,1226,1996
+Berlin,-,1,Berlin Precinct 1,1385,941,2429
+Bernardston,-,1,Bernardston Precinct 1,878,491,1411
+Beverly,1,1,Beverly Ward 1 Precinct 1,1260,705,2027
+Beverly,1,2,Beverly Ward 1 Precinct 2,1453,762,2315
+Beverly,2,1,Beverly Ward 2 Precinct 1,1422,593,2125
+Beverly,2,2,Beverly Ward 2 Precinct 2,1411,475,1970
+Beverly,3,1,Beverly Ward 3 Precinct 1,947,407,1418
+Beverly,3,2,Beverly Ward 3 Precinct 2,1137,667,1870
+Beverly,4,1,Beverly Ward 4 Precinct 1,715,293,1054
+Beverly,4,2,Beverly Ward 4 Precinct 2,1796,552,2428
+Beverly,5,1,Beverly Ward 5 Precinct 1,1206,734,2009
+Beverly,5,2,Beverly Ward 5 Precinct 2,1206,677,1967
+Beverly,6,1,Beverly Ward 6 Precinct 1,1554,676,2324
+Beverly,6,2,Beverly Ward 6 Precinct 2,1429,872,2401
+Billerica,-,1,Billerica Precinct 1,835,675,1572
+Billerica,-,10,Billerica Precinct 10,1065,1211,2336
+Billerica,-,11,Billerica Precinct 11,845,837,1735
+Billerica,-,12,Billerica Precinct 12,955,891,1910
+Billerica,-,2,Billerica Precinct 2,1078,960,2107
+Billerica,-,3,Billerica Precinct 3,979,1058,2095
+Billerica,-,4,Billerica Precinct 4,908,849,1819
+Billerica,-,5,Billerica Precinct 5,1147,1204,2416
+Billerica,-,6,Billerica Precinct 6,926,785,1782
+Billerica,-,7,Billerica Precinct 7,1042,800,1918
+Billerica,-,8,Billerica Precinct 8,976,960,1993
+Billerica,-,9,Billerica Precinct 9,987,1153,2198
+Blackstone,-,1,Blackstone Precinct 1,712,826,1574
+Blackstone,-,2,Blackstone Precinct 2,746,916,1706
+Blackstone,-,3,Blackstone Precinct 3,787,1041,1874
+Blandford,-,1,Blandford Precinct 1,308,492,820
+Bolton,-,1,Bolton Precinct 1,2459,1098,3706
+Boston,1,1,Boston Ward 1 Precinct 1,812,231,1099
+Boston,1,10,Boston Ward 1 Precinct 10,301,149,478
+Boston,1,11,Boston Ward 1 Precinct 11,690,349,1081
+Boston,1,12,Boston Ward 1 Precinct 12,566,393,1010
+Boston,1,13,Boston Ward 1 Precinct 13,775,490,1341
+Boston,1,14,Boston Ward 1 Precinct 14,395,249,682
+Boston,1,15,Boston Ward 1 Precinct 15,0,0,0
+Boston,1,2,Boston Ward 1 Precinct 2,602,215,860
+Boston,1,3,Boston Ward 1 Precinct 3,1610,500,2212
+Boston,1,4,Boston Ward 1 Precinct 4,630,206,878
+Boston,1,5,Boston Ward 1 Precinct 5,690,220,960
+Boston,1,6,Boston Ward 1 Precinct 6,549,195,797
+Boston,1,7,Boston Ward 1 Precinct 7,624,217,875
+Boston,1,8,Boston Ward 1 Precinct 8,776,262,1088
+Boston,1,9,Boston Ward 1 Precinct 9,562,210,804
+Boston,10,1,Boston Ward 10 Precinct 1,440,76,541
+Boston,10,2,Boston Ward 10 Precinct 2,421,66,522
+Boston,10,3,Boston Ward 10 Precinct 3,346,72,435
+Boston,10,4,Boston Ward 10 Precinct 4,704,212,968
+Boston,10,5,Boston Ward 10 Precinct 5,460,83,589
+Boston,10,6,Boston Ward 10 Precinct 6,573,97,715
+Boston,10,7,Boston Ward 10 Precinct 7,711,146,898
+Boston,10,8,Boston Ward 10 Precinct 8,1016,128,1200
+Boston,10,9,Boston Ward 10 Precinct 9,1228,94,1409
+Boston,11,1,Boston Ward 11 Precinct 1,513,42,590
+Boston,11,10,Boston Ward 11 Precinct 10,857,44,954
+Boston,11,2,Boston Ward 11 Precinct 2,793,100,940
+Boston,11,3,Boston Ward 11 Precinct 3,562,98,696
+Boston,11,4,Boston Ward 11 Precinct 4,1012,116,1211
+Boston,11,5,Boston Ward 11 Precinct 5,840,110,1018
+Boston,11,6,Boston Ward 11 Precinct 6,803,63,914
+Boston,11,7,Boston Ward 11 Precinct 7,975,117,1166
+Boston,11,8,Boston Ward 11 Precinct 8,1464,94,1671
+Boston,11,9,Boston Ward 11 Precinct 9,737,40,839
+Boston,12,1,Boston Ward 12 Precinct 1,777,94,917
+Boston,12,2,Boston Ward 12 Precinct 2,950,132,1126
+Boston,12,3,Boston Ward 12 Precinct 3,425,70,525
+Boston,12,4,Boston Ward 12 Precinct 4,552,74,662
+Boston,12,5,Boston Ward 12 Precinct 5,314,41,380
+Boston,12,6,Boston Ward 12 Precinct 6,468,39,529
+Boston,12,7,Boston Ward 12 Precinct 7,994,196,1251
+Boston,12,8,Boston Ward 12 Precinct 8,355,60,434
+Boston,12,9,Boston Ward 12 Precinct 9,481,60,569
+Boston,13,1,Boston Ward 13 Precinct 1,623,108,765
+Boston,13,10,Boston Ward 13 Precinct 10,905,369,1326
+Boston,13,2,Boston Ward 13 Precinct 2,261,41,314
+Boston,13,3,Boston Ward 13 Precinct 3,652,131,833
+Boston,13,4,Boston Ward 13 Precinct 4,477,101,601
+Boston,13,5,Boston Ward 13 Precinct 5,453,81,560
+Boston,13,6,Boston Ward 13 Precinct 6,646,101,786
+Boston,13,7,Boston Ward 13 Precinct 7,610,279,935
+Boston,13,8,Boston Ward 13 Precinct 8,562,191,790
+Boston,13,9,Boston Ward 13 Precinct 9,701,157,890
+Boston,14,1,Boston Ward 14 Precinct 1,952,190,1189
+Boston,14,10,Boston Ward 14 Precinct 10,571,111,708
+Boston,14,11,Boston Ward 14 Precinct 11,580,74,668
+Boston,14,12,Boston Ward 14 Precinct 12,348,29,388
+Boston,14,13,Boston Ward 14 Precinct 13,519,53,597
+Boston,14,14,Boston Ward 14 Precinct 14,574,63,661
+Boston,14,2,Boston Ward 14 Precinct 2,1070,172,1285
+Boston,14,3,Boston Ward 14 Precinct 3,276,43,329
+Boston,14,4,Boston Ward 14 Precinct 4,613,94,733
+Boston,14,5,Boston Ward 14 Precinct 5,493,39,544
+Boston,14,6,Boston Ward 14 Precinct 6,495,73,594
+Boston,14,7,Boston Ward 14 Precinct 7,472,67,562
+Boston,14,8,Boston Ward 14 Precinct 8,610,56,692
+Boston,14,9,Boston Ward 14 Precinct 9,494,121,632
+Boston,15,1,Boston Ward 15 Precinct 1,707,114,841
+Boston,15,2,Boston Ward 15 Precinct 2,424,74,523
+Boston,15,3,Boston Ward 15 Precinct 3,294,62,378
+Boston,15,4,Boston Ward 15 Precinct 4,754,216,1004
+Boston,15,5,Boston Ward 15 Precinct 5,544,72,637
+Boston,15,6,Boston Ward 15 Precinct 6,353,194,570
+Boston,15,7,Boston Ward 15 Precinct 7,462,70,550
+Boston,15,8,Boston Ward 15 Precinct 8,332,165,528
+Boston,15,9,Boston Ward 15 Precinct 9,403,145,574
+Boston,16,1,Boston Ward 16 Precinct 1,436,188,664
+Boston,16,10,Boston Ward 16 Precinct 10,550,411,985
+Boston,16,11,Boston Ward 16 Precinct 11,398,229,648
+Boston,16,12,Boston Ward 16 Precinct 12,480,526,1044
+Boston,16,2,Boston Ward 16 Precinct 2,439,228,695
+Boston,16,3,Boston Ward 16 Precinct 3,638,152,824
+Boston,16,4,Boston Ward 16 Precinct 4,604,198,832
+Boston,16,5,Boston Ward 16 Precinct 5,676,285,999
+Boston,16,6,Boston Ward 16 Precinct 6,855,307,1212
+Boston,16,7,Boston Ward 16 Precinct 7,576,352,976
+Boston,16,8,Boston Ward 16 Precinct 8,965,451,1488
+Boston,16,9,Boston Ward 16 Precinct 9,587,588,1232
+Boston,17,1,Boston Ward 17 Precinct 1,544,85,646
+Boston,17,10,Boston Ward 17 Precinct 10,776,99,909
+Boston,17,11,Boston Ward 17 Precinct 11,311,36,364
+Boston,17,12,Boston Ward 17 Precinct 12,574,68,658
+Boston,17,13,Boston Ward 17 Precinct 13,688,185,921
+Boston,17,14,Boston Ward 17 Precinct 14,798,121,950
+Boston,17,2,Boston Ward 17 Precinct 2,407,72,498
+Boston,17,3,Boston Ward 17 Precinct 3,926,118,1082
+Boston,17,4,Boston Ward 17 Precinct 4,1071,229,1345
+Boston,17,5,Boston Ward 17 Precinct 5,407,60,486
+Boston,17,6,Boston Ward 17 Precinct 6,737,92,858
+Boston,17,7,Boston Ward 17 Precinct 7,356,46,414
+Boston,17,8,Boston Ward 17 Precinct 8,577,87,692
+Boston,17,9,Boston Ward 17 Precinct 9,557,43,628
+Boston,18,1,Boston Ward 18 Precinct 1,1228,101,1358
+Boston,18,10,Boston Ward 18 Precinct 10,1304,272,1633
+Boston,18,11,Boston Ward 18 Precinct 11,693,131,849
+Boston,18,12,Boston Ward 18 Precinct 12,873,207,1123
+Boston,18,13,Boston Ward 18 Precinct 13,538,93,653
+Boston,18,14,Boston Ward 18 Precinct 14,532,102,660
+Boston,18,15,Boston Ward 18 Precinct 15,874,108,1013
+Boston,18,16,Boston Ward 18 Precinct 16,858,320,1227
+Boston,18,17,Boston Ward 18 Precinct 17,846,223,1100
+Boston,18,18,Boston Ward 18 Precinct 18,1000,285,1325
+Boston,18,19,Boston Ward 18 Precinct 19,1370,354,1801
+Boston,18,2,Boston Ward 18 Precinct 2,734,66,821
+Boston,18,20,Boston Ward 18 Precinct 20,944,508,1506
+Boston,18,21,Boston Ward 18 Precinct 21,1086,96,1220
+Boston,18,22,Boston Ward 18 Precinct 22,956,353,1363
+Boston,18,23,Boston Ward 18 Precinct 23,641,159,821
+Boston,18,3,Boston Ward 18 Precinct 3,898,77,1002
+Boston,18,4,Boston Ward 18 Precinct 4,934,88,1049
+Boston,18,5,Boston Ward 18 Precinct 5,995,78,1098
+Boston,18,6,Boston Ward 18 Precinct 6,1262,89,1385
+Boston,18,7,Boston Ward 18 Precinct 7,821,191,1056
+Boston,18,8,Boston Ward 18 Precinct 8,1438,226,1727
+Boston,18,9,Boston Ward 18 Precinct 9,887,207,1133
+Boston,19,1,Boston Ward 19 Precinct 1,918,45,1030
+Boston,19,10,Boston Ward 19 Precinct 10,1119,176,1350
+Boston,19,11,Boston Ward 19 Precinct 11,752,149,937
+Boston,19,12,Boston Ward 19 Precinct 12,841,111,989
+Boston,19,13,Boston Ward 19 Precinct 13,646,111,797
+Boston,19,2,Boston Ward 19 Precinct 2,1025,207,1301
+Boston,19,3,Boston Ward 19 Precinct 3,570,46,650
+Boston,19,4,Boston Ward 19 Precinct 4,1288,52,1406
+Boston,19,5,Boston Ward 19 Precinct 5,873,68,1002
+Boston,19,6,Boston Ward 19 Precinct 6,1293,58,1422
+Boston,19,7,Boston Ward 19 Precinct 7,1048,103,1211
+Boston,19,8,Boston Ward 19 Precinct 8,828,58,913
+Boston,19,9,Boston Ward 19 Precinct 9,624,48,699
+Boston,2,1,Boston Ward 2 Precinct 1,1008,467,1544
+Boston,2,2,Boston Ward 2 Precinct 2,979,341,1384
+Boston,2,3,Boston Ward 2 Precinct 3,1139,338,1557
+Boston,2,4,Boston Ward 2 Precinct 4,1060,273,1386
+Boston,2,5,Boston Ward 2 Precinct 5,1086,330,1475
+Boston,2,6,Boston Ward 2 Precinct 6,888,339,1274
+Boston,2,7,Boston Ward 2 Precinct 7,621,209,881
+Boston,2,8,Boston Ward 2 Precinct 8,566,221,827
+Boston,20,1,Boston Ward 20 Precinct 1,979,236,1266
+Boston,20,10,Boston Ward 20 Precinct 10,965,526,1568
+Boston,20,11,Boston Ward 20 Precinct 11,536,169,733
+Boston,20,12,Boston Ward 20 Precinct 12,640,248,927
+Boston,20,13,Boston Ward 20 Precinct 13,523,281,837
+Boston,20,14,Boston Ward 20 Precinct 14,530,254,814
+Boston,20,15,Boston Ward 20 Precinct 15,836,509,1401
+Boston,20,16,Boston Ward 20 Precinct 16,918,616,1597
+Boston,20,17,Boston Ward 20 Precinct 17,1016,570,1644
+Boston,20,18,Boston Ward 20 Precinct 18,590,218,843
+Boston,20,19,Boston Ward 20 Precinct 19,586,252,877
+Boston,20,2,Boston Ward 20 Precinct 2,993,213,1255
+Boston,20,20,Boston Ward 20 Precinct 20,996,366,1417
+Boston,20,21,Boston Ward 20 Precinct 21,72,51,131
+Boston,20,3,Boston Ward 20 Precinct 3,731,372,1176
+Boston,20,4,Boston Ward 20 Precinct 4,904,90,1041
+Boston,20,5,Boston Ward 20 Precinct 5,873,424,1360
+Boston,20,6,Boston Ward 20 Precinct 6,1026,325,1410
+Boston,20,7,Boston Ward 20 Precinct 7,628,197,859
+Boston,20,8,Boston Ward 20 Precinct 8,742,196,971
+Boston,20,9,Boston Ward 20 Precinct 9,824,222,1091
+Boston,21,1,Boston Ward 21 Precinct 1,973,90,1115
+Boston,21,10,Boston Ward 21 Precinct 10,748,144,945
+Boston,21,11,Boston Ward 21 Precinct 11,901,123,1103
+Boston,21,12,Boston Ward 21 Precinct 12,736,174,965
+Boston,21,13,Boston Ward 21 Precinct 13,917,370,1352
+Boston,21,14,Boston Ward 21 Precinct 14,583,65,688
+Boston,21,15,Boston Ward 21 Precinct 15,716,69,838
+Boston,21,16,Boston Ward 21 Precinct 16,898,163,1113
+Boston,21,2,Boston Ward 21 Precinct 2,255,23,299
+Boston,21,3,Boston Ward 21 Precinct 3,535,69,641
+Boston,21,4,Boston Ward 21 Precinct 4,455,58,577
+Boston,21,5,Boston Ward 21 Precinct 5,798,74,933
+Boston,21,6,Boston Ward 21 Precinct 6,555,78,703
+Boston,21,7,Boston Ward 21 Precinct 7,661,112,845
+Boston,21,8,Boston Ward 21 Precinct 8,931,96,1103
+Boston,21,9,Boston Ward 21 Precinct 9,1120,156,1357
+Boston,22,1,Boston Ward 22 Precinct 1,966,212,1260
+Boston,22,10,Boston Ward 22 Precinct 10,842,172,1090
+Boston,22,11,Boston Ward 22 Precinct 11,570,140,763
+Boston,22,12,Boston Ward 22 Precinct 12,581,202,829
+Boston,22,13,Boston Ward 22 Precinct 13,515,134,678
+Boston,22,2,Boston Ward 22 Precinct 2,1151,214,1466
+Boston,22,3,Boston Ward 22 Precinct 3,985,245,1301
+Boston,22,4,Boston Ward 22 Precinct 4,752,165,972
+Boston,22,5,Boston Ward 22 Precinct 5,736,167,955
+Boston,22,6,Boston Ward 22 Precinct 6,574,120,744
+Boston,22,7,Boston Ward 22 Precinct 7,836,166,1120
+Boston,22,8,Boston Ward 22 Precinct 8,563,184,787
+Boston,22,9,Boston Ward 22 Precinct 9,620,238,927
+Boston,3,1,Boston Ward 3 Precinct 1,904,386,1350
+Boston,3,10,Boston Ward 3 Precinct 10,1114,282,1469
+Boston,3,11,Boston Ward 3 Precinct 11,783,288,1116
+Boston,3,12,Boston Ward 3 Precinct 12,1014,210,1280
+Boston,3,13,Boston Ward 3 Precinct 13,638,237,920
+Boston,3,14,Boston Ward 3 Precinct 14,766,227,1038
+Boston,3,15,Boston Ward 3 Precinct 15,913,159,1120
+Boston,3,16,Boston Ward 3 Precinct 16,1269,149,1454
+Boston,3,17,Boston Ward 3 Precinct 17,740,140,918
+Boston,3,2,Boston Ward 3 Precinct 2,943,409,1401
+Boston,3,3,Boston Ward 3 Precinct 3,597,239,869
+Boston,3,4,Boston Ward 3 Precinct 4,685,263,977
+Boston,3,5,Boston Ward 3 Precinct 5,1004,218,1290
+Boston,3,6,Boston Ward 3 Precinct 6,678,169,904
+Boston,3,7,Boston Ward 3 Precinct 7,1008,105,1155
+Boston,3,8,Boston Ward 3 Precinct 8,865,201,1126
+Boston,3,9,Boston Ward 3 Precinct 9,657,154,850
+Boston,4,1,Boston Ward 4 Precinct 1,955,130,1120
+Boston,4,10,Boston Ward 4 Precinct 10,236,35,278
+Boston,4,11,Boston Ward 4 Precinct 11,49,7,58
+Boston,4,12,Boston Ward 4 Precinct 12,221,33,265
+Boston,4,2,Boston Ward 4 Precinct 2,776,178,990
+Boston,4,3,Boston Ward 4 Precinct 3,1115,159,1330
+Boston,4,4,Boston Ward 4 Precinct 4,1190,175,1413
+Boston,4,5,Boston Ward 4 Precinct 5,955,152,1156
+Boston,4,6,Boston Ward 4 Precinct 6,754,159,937
+Boston,4,7,Boston Ward 4 Precinct 7,642,107,788
+Boston,4,8,Boston Ward 4 Precinct 8,636,152,825
+Boston,4,9,Boston Ward 4 Precinct 9,213,39,264
+Boston,5,1,Boston Ward 5 Precinct 1,528,147,725
+Boston,5,10,Boston Ward 5 Precinct 10,538,115,690
+Boston,5,11,Boston Ward 5 Precinct 11,488,88,601
+Boston,5,12,Boston Ward 5 Precinct 12,573,91,694
+Boston,5,13,Boston Ward 5 Precinct 13,889,187,1114
+Boston,5,14,Boston Ward 5 Precinct 14,819,120,972
+Boston,5,15,Boston Ward 5 Precinct 15,654,125,821
+Boston,5,2,Boston Ward 5 Precinct 2,738,110,902
+Boston,5,3,Boston Ward 5 Precinct 3,1206,240,1524
+Boston,5,4,Boston Ward 5 Precinct 4,716,99,845
+Boston,5,5,Boston Ward 5 Precinct 5,803,196,1037
+Boston,5,6,Boston Ward 5 Precinct 6,943,207,1218
+Boston,5,7,Boston Ward 5 Precinct 7,1219,272,1552
+Boston,5,8,Boston Ward 5 Precinct 8,1028,240,1335
+Boston,5,9,Boston Ward 5 Precinct 9,1033,217,1302
+Boston,6,1,Boston Ward 6 Precinct 1,1134,307,1497
+Boston,6,10,Boston Ward 6 Precinct 10,686,322,1061
+Boston,6,11,Boston Ward 6 Precinct 11,852,251,1180
+Boston,6,12,Boston Ward 6 Precinct 12,1366,659,2099
+Boston,6,2,Boston Ward 6 Precinct 2,599,347,985
+Boston,6,3,Boston Ward 6 Precinct 3,741,411,1196
+Boston,6,4,Boston Ward 6 Precinct 4,572,344,950
+Boston,6,5,Boston Ward 6 Precinct 5,794,372,1232
+Boston,6,6,Boston Ward 6 Precinct 6,737,525,1306
+Boston,6,7,Boston Ward 6 Precinct 7,679,495,1220
+Boston,6,8,Boston Ward 6 Precinct 8,812,561,1426
+Boston,6,9,Boston Ward 6 Precinct 9,736,576,1359
+Boston,7,1,Boston Ward 7 Precinct 1,585,457,1083
+Boston,7,10,Boston Ward 7 Precinct 10,593,92,720
+Boston,7,2,Boston Ward 7 Precinct 2,693,497,1260
+Boston,7,3,Boston Ward 7 Precinct 3,814,532,1399
+Boston,7,4,Boston Ward 7 Precinct 4,588,390,1026
+Boston,7,5,Boston Ward 7 Precinct 5,767,361,1185
+Boston,7,6,Boston Ward 7 Precinct 6,636,285,961
+Boston,7,7,Boston Ward 7 Precinct 7,351,214,589
+Boston,7,8,Boston Ward 7 Precinct 8,666,265,970
+Boston,7,9,Boston Ward 7 Precinct 9,518,199,753
+Boston,8,1,Boston Ward 8 Precinct 1,1125,213,1391
+Boston,8,2,Boston Ward 8 Precinct 2,792,97,925
+Boston,8,3,Boston Ward 8 Precinct 3,707,114,865
+Boston,8,4,Boston Ward 8 Precinct 4,497,115,638
+Boston,8,5,Boston Ward 8 Precinct 5,802,129,962
+Boston,8,6,Boston Ward 8 Precinct 6,147,47,206
+Boston,9,1,Boston Ward 9 Precinct 1,1013,171,1226
+Boston,9,2,Boston Ward 9 Precinct 2,982,95,1122
+Boston,9,3,Boston Ward 9 Precinct 3,714,170,926
+Boston,9,4,Boston Ward 9 Precinct 4,698,133,870
+Boston,9,5,Boston Ward 9 Precinct 5,767,66,885
+Boston,9,6,Boston Ward 9 Precinct 6,916,111,1077
+Boston,9,7,Boston Ward 9 Precinct 7,273,65,354
+Bourne,-,1,Bourne Precinct 1,853,1058,1985
+Bourne,-,2,Bourne Precinct 2,954,943,1962
+Bourne,-,3,Bourne Precinct 3,476,537,1047
+Bourne,-,4,Bourne Precinct 4,1159,899,2120
+Bourne,-,5,Bourne Precinct 5,932,732,1714
+Bourne,-,5A,Bourne Precinct 5A,168,169,350
+Bourne,-,6,Bourne Precinct 6,888,523,1464
+Bourne,-,7,Bourne Precinct 7,835,748,1630
+Boxborough,-,1,Boxborough Precinct 1,2295,768,3192
+Boxford,-,1,Boxford Precinct 1,936,836,1828
+Boxford,-,2,Boxford Precinct 2,1102,763,1933
+Boxford,-,3,Boxford Precinct 3,974,667,1702
+Boylston,-,1,Boylston Precinct 1,1886,1367,3387
+Braintree,-,1A,Braintree Precinct 1A,915,882,1856
+Braintree,-,1B,Braintree Precinct 1B,777,816,1662
+Braintree,-,2A,Braintree Precinct 2A,962,751,1791
+Braintree,-,2B,Braintree Precinct 2B,865,775,1712
+Braintree,-,3A,Braintree Precinct 3A,770,653,1478
+Braintree,-,3B,Braintree Precinct 3B,847,683,1595
+Braintree,-,4A,Braintree Precinct 4A,837,704,1599
+Braintree,-,4B,Braintree Precinct 4B,848,588,1491
+Braintree,-,5A,Braintree Precinct 5A,844,772,1688
+Braintree,-,5B,Braintree Precinct 5B,919,809,1794
+Braintree,-,6A,Braintree Precinct 6A,1015,914,2013
+Braintree,-,6B,Braintree Precinct 6B,947,863,1904
+Brewster,-,1,Brewster Precinct 1,1684,860,2630
+Brewster,-,2,Brewster Precinct 2,1552,704,2339
+Brewster,-,3,Brewster Precinct 3,1540,773,2380
+Bridgewater,-,1,Bridgewater Precinct 1,880,1023,1965
+Bridgewater,-,2,Bridgewater Precinct 2,906,945,1916
+Bridgewater,-,3,Bridgewater Precinct 3,1088,1154,2326
+Bridgewater,-,4,Bridgewater Precinct 4,460,567,1062
+Bridgewater,-,5,Bridgewater Precinct 5,141,80,228
+Bridgewater,-,6,Bridgewater Precinct 6,728,704,1475
+Bridgewater,-,7,Bridgewater Precinct 7,976,901,1940
+Bridgewater,-,8,Bridgewater Precinct 8,897,712,1659
+Bridgewater,-,9,Bridgewater Precinct 9,994,1032,2086
+Brimfield,-,1,Brimfield Precinct 1,1017,1271,2363
+Brockton,1,A,Brockton Ward 1 Precinct A,806,199,1038
+Brockton,1,B,Brockton Ward 1 Precinct B,1064,385,1495
+Brockton,1,C,Brockton Ward 1 Precinct C,899,373,1318
+Brockton,1,D,Brockton Ward 1 Precinct D,1166,652,1887
+Brockton,2,A,Brockton Ward 2 Precinct A,636,128,778
+Brockton,2,B,Brockton Ward 2 Precinct B,774,155,966
+Brockton,2,C,Brockton Ward 2 Precinct C,519,133,682
+Brockton,2,D,Brockton Ward 2 Precinct D,803,287,1132
+Brockton,3,A,Brockton Ward 3 Precinct A,887,298,1227
+Brockton,3,B,Brockton Ward 3 Precinct B,698,218,936
+Brockton,3,C,Brockton Ward 3 Precinct C,1113,522,1688
+Brockton,3,D,Brockton Ward 3 Precinct D,1027,593,1665
+Brockton,4,A,Brockton Ward 4 Precinct A,522,148,700
+Brockton,4,B,Brockton Ward 4 Precinct B,889,285,1200
+Brockton,4,C,Brockton Ward 4 Precinct C,988,462,1506
+Brockton,4,D,Brockton Ward 4 Precinct D,936,427,1411
+Brockton,5,A,Brockton Ward 5 Precinct A,708,192,942
+Brockton,5,B,Brockton Ward 5 Precinct B,996,409,1453
+Brockton,5,C,Brockton Ward 5 Precinct C,883,261,1180
+Brockton,5,D,Brockton Ward 5 Precinct D,1042,528,1619
+Brockton,6,A,Brockton Ward 6 Precinct A,833,318,1190
+Brockton,6,B,Brockton Ward 6 Precinct B,971,519,1552
+Brockton,6,C,Brockton Ward 6 Precinct C,960,382,1382
+Brockton,6,D,Brockton Ward 6 Precinct D,1083,679,1816
+Brockton,7,A,Brockton Ward 7 Precinct A,742,179,959
+Brockton,7,B,Brockton Ward 7 Precinct B,1006,275,1326
+Brockton,7,C,Brockton Ward 7 Precinct C,840,241,1105
+Brockton,7,D,Brockton Ward 7 Precinct D,936,351,1331
+Brookfield,-,1,Brookfield Precinct 1,930,1109,2107
+Brookline,-,1,Brookline Precinct 1,1243,160,1468
+Brookline,-,10,Brookline Precinct 10,1472,182,1727
+Brookline,-,11,Brookline Precinct 11,1572,176,1827
+Brookline,-,12,Brookline Precinct 12,1553,240,1892
+Brookline,-,13,Brookline Precinct 13,1319,186,1590
+Brookline,-,13A,Brookline Precinct 13A,227,35,287
+Brookline,-,14,Brookline Precinct 14,1199,306,1596
+Brookline,-,14A,Brookline Precinct 14A,344,56,418
+Brookline,-,15,Brookline Precinct 15,1454,360,1928
+Brookline,-,16,Brookline Precinct 16,1408,310,1808
+Brookline,-,17,Brookline Precinct 17,1236,184,1500
+Brookline,-,2,Brookline Precinct 2,818,131,1011
+Brookline,-,3,Brookline Precinct 3,1439,166,1677
+Brookline,-,4,Brookline Precinct 4,1126,198,1383
+Brookline,-,5,Brookline Precinct 5,732,104,879
+Brookline,-,5A,Brookline Precinct 5A,717,84,844
+Brookline,-,6,Brookline Precinct 6,1571,148,1783
+Brookline,-,7,Brookline Precinct 7,1328,176,1576
+Brookline,-,8,Brookline Precinct 8,1483,114,1657
+Brookline,-,9,Brookline Precinct 9,1469,181,1735
+Buckland,-,1,Buckland Precinct 1,808,296,1143
+Burlington,-,1,Burlington Precinct 1,1260,948,2372
+Burlington,-,2,Burlington Precinct 2,844,534,1451
+Burlington,-,3,Burlington Precinct 3,1208,810,2133
+Burlington,-,4,Burlington Precinct 4,999,619,1698
+Burlington,-,5,Burlington Precinct 5,1324,978,2433
+Burlington,-,6,Burlington Precinct 6,1284,958,2352
+Burlington,-,7,Burlington Precinct 7,1299,722,2161
+Cambridge,1,1,Cambridge Ward 1 Precinct 1,812,140,1010
+Cambridge,1,2,Cambridge Ward 1 Precinct 2,383,46,453
+Cambridge,1,2A,Cambridge Ward 1 Precinct 2A,35,3,38
+Cambridge,1,3,Cambridge Ward 1 Precinct 3,1228,230,1535
+Cambridge,10,1,Cambridge Ward 10 Precinct 1,1146,101,1310
+Cambridge,10,1A,Cambridge Ward 10 Precinct 1A,762,72,878
+Cambridge,10,2,Cambridge Ward 10 Precinct 2,1989,78,2172
+Cambridge,10,3,Cambridge Ward 10 Precinct 3,1435,152,1722
+Cambridge,11,1,Cambridge Ward 11 Precinct 1,662,73,776
+Cambridge,11,1A,Cambridge Ward 11 Precinct 1A,720,84,829
+Cambridge,11,2,Cambridge Ward 11 Precinct 2,961,241,1319
+Cambridge,11,3,Cambridge Ward 11 Precinct 3,1487,165,1743
+Cambridge,11,3A,Cambridge Ward 11 Precinct 3A,165,7,176
+Cambridge,2,1,Cambridge Ward 2 Precinct 1,1320,202,1633
+Cambridge,2,2,Cambridge Ward 2 Precinct 2,1261,207,1548
+Cambridge,2,3,Cambridge Ward 2 Precinct 3,1152,145,1385
+Cambridge,2,3A,Cambridge Ward 2 Precinct 3A,118,19,147
+Cambridge,3,1,Cambridge Ward 3 Precinct 1,1127,130,1371
+Cambridge,3,2,Cambridge Ward 3 Precinct 2,1427,138,1658
+Cambridge,3,3,Cambridge Ward 3 Precinct 3,996,55,1105
+Cambridge,3,3A,Cambridge Ward 3 Precinct 3A,482,44,556
+Cambridge,4,1,Cambridge Ward 4 Precinct 1,1695,149,1951
+Cambridge,4,2,Cambridge Ward 4 Precinct 2,1329,97,1503
+Cambridge,4,2A,Cambridge Ward 4 Precinct 2A,211,18,248
+Cambridge,4,3,Cambridge Ward 4 Precinct 3,1529,101,1727
+Cambridge,5,1,Cambridge Ward 5 Precinct 1,1410,119,1630
+Cambridge,5,2,Cambridge Ward 5 Precinct 2,261,26,311
+Cambridge,5,3,Cambridge Ward 5 Precinct 3,1387,101,1560
+Cambridge,6,1,Cambridge Ward 6 Precinct 1,1281,85,1443
+Cambridge,6,1A,Cambridge Ward 6 Precinct 1A,371,21,411
+Cambridge,6,2,Cambridge Ward 6 Precinct 2,947,63,1073
+Cambridge,6,3,Cambridge Ward 6 Precinct 3,1721,110,1937
+Cambridge,7,1,Cambridge Ward 7 Precinct 1,1530,81,1689
+Cambridge,7,2,Cambridge Ward 7 Precinct 2,1077,89,1237
+Cambridge,7,2A,Cambridge Ward 7 Precinct 2A,39,0,40
+Cambridge,7,3,Cambridge Ward 7 Precinct 3,435,57,531
+Cambridge,8,1,Cambridge Ward 8 Precinct 1,1371,68,1511
+Cambridge,8,2,Cambridge Ward 8 Precinct 2,1420,74,1565
+Cambridge,8,3,Cambridge Ward 8 Precinct 3,486,29,547
+Cambridge,9,1,Cambridge Ward 9 Precinct 1,2232,135,2470
+Cambridge,9,2,Cambridge Ward 9 Precinct 2,1702,199,2003
+Cambridge,9,3,Cambridge Ward 9 Precinct 3,1588,205,1910
+Canton,-,1,Canton Precinct 1,1101,687,1862
+Canton,-,2,Canton Precinct 2,1444,835,2364
+Canton,-,3,Canton Precinct 3,962,618,1654
+Canton,-,4,Canton Precinct 4,1171,818,2083
+Canton,-,5,Canton Precinct 5,1204,840,2129
+Canton,-,6,Canton Precinct 6,1214,685,1966
+Canton,-,7,Canton Precinct 7,1285,776,2140
+Carlisle,-,1,Carlisle Precinct 1,2648,663,3461
+Carver,-,1,Carver Precinct 1,965,1339,2382
+Carver,-,2,Carver Precinct 2,905,1323,2291
+Carver,-,3,Carver Precinct 3,1152,1283,2511
+Charlemont,-,1,Charlemont Precinct 1,479,211,744
+Charlton,-,1,Charlton Precinct 1,927,988,1984
+Charlton,-,2,Charlton Precinct 2,811,1245,2139
+Charlton,-,3,Charlton Precinct 3,903,1137,2106
+Charlton,-,4,Charlton Precinct 4,835,1114,2012
+Charlton,-,4A,Charlton Precinct 4A,18,35,55
+Chatham,-,1,Chatham Precinct 1,1517,875,2482
+Chatham,-,2,Chatham Precinct 2,1445,871,2419
+Chelmsford,-,1,Chelmsford Precinct 1,980,715,1763
+Chelmsford,-,10,Chelmsford Precinct 10,960,736,1760
+Chelmsford,-,11,Chelmsford Precinct 11,1317,724,2129
+Chelmsford,-,2,Chelmsford Precinct 2,1134,733,1935
+Chelmsford,-,3A,Chelmsford Precinct 3A,527,339,906
+Chelmsford,-,3B,Chelmsford Precinct 3B,587,330,949
+Chelmsford,-,4,Chelmsford Precinct 4,1348,715,2158
+Chelmsford,-,5A,Chelmsford Precinct 5A,1030,644,1720
+Chelmsford,-,5B,Chelmsford Precinct 5B,321,188,532
+Chelmsford,-,6,Chelmsford Precinct 6,1163,725,1965
+Chelmsford,-,7,Chelmsford Precinct 7,1062,700,1859
+Chelmsford,-,8,Chelmsford Precinct 8,1222,567,1874
+Chelmsford,-,9,Chelmsford Precinct 9,1286,785,2155
+Chelsea,1,1,Chelsea Ward 1 Precinct 1,287,140,469
+Chelsea,1,2,Chelsea Ward 1 Precinct 2,196,85,306
+Chelsea,1,3,Chelsea Ward 1 Precinct 3,269,121,417
+Chelsea,1,4,Chelsea Ward 1 Precinct 4,256,122,399
+Chelsea,2,1,Chelsea Ward 2 Precinct 1,740,311,1083
+Chelsea,2,2,Chelsea Ward 2 Precinct 2,456,144,636
+Chelsea,2,3,Chelsea Ward 2 Precinct 3,259,89,382
+Chelsea,2,4,Chelsea Ward 2 Precinct 4,325,102,451
+Chelsea,3,1,Chelsea Ward 3 Precinct 1,355,145,525
+Chelsea,3,2,Chelsea Ward 3 Precinct 2,378,182,587
+Chelsea,3,3,Chelsea Ward 3 Precinct 3,323,159,507
+Chelsea,3,4,Chelsea Ward 3 Precinct 4,383,134,537
+Chelsea,4,1,Chelsea Ward 4 Precinct 1,438,182,651
+Chelsea,4,2,Chelsea Ward 4 Precinct 2,412,227,677
+Chelsea,4,3,Chelsea Ward 4 Precinct 3,362,258,665
+Chelsea,4,4,Chelsea Ward 4 Precinct 4,348,193,577
+Cheshire,-,1,Cheshire Precinct 1,1032,876,1954
+Chester,-,1,Chester Precinct 1,293,434,751
+Chesterfield,-,1,Chesterfield Precinct 1,497,291,836
+Chicopee,1,A,Chicopee Ward 1 Precinct A,721,699,1461
+Chicopee,1,B,Chicopee Ward 1 Precinct B,888,749,1691
+Chicopee,2,A,Chicopee Ward 2 Precinct A,555,362,950
+Chicopee,2,B,Chicopee Ward 2 Precinct B,707,758,1515
+Chicopee,3,A,Chicopee Ward 3 Precinct A,486,603,1129
+Chicopee,3,A1,Chicopee Ward 3 Precinct A1,150,85,241
+Chicopee,3,B,Chicopee Ward 3 Precinct B,563,496,1104
+Chicopee,4,A,Chicopee Ward 4 Precinct A,690,530,1248
+Chicopee,4,B,Chicopee Ward 4 Precinct B,652,504,1196
+Chicopee,5,A,Chicopee Ward 5 Precinct A,787,605,1432
+Chicopee,5,B,Chicopee Ward 5 Precinct B,669,588,1308
+Chicopee,6,AN,Chicopee Ward 6 Precinct AN,313,209,539
+Chicopee,6,AS,Chicopee Ward 6 Precinct AS,488,431,954
+Chicopee,6,BE,Chicopee Ward 6 Precinct BE,641,798,1491
+Chicopee,6,BW,Chicopee Ward 6 Precinct BW,137,157,303
+Chicopee,7,A,Chicopee Ward 7 Precinct A,546,456,1045
+Chicopee,7,B,Chicopee Ward 7 Precinct B,643,441,1119
+Chicopee,8,A,Chicopee Ward 8 Precinct A,740,677,1458
+Chicopee,8,B,Chicopee Ward 8 Precinct B,641,721,1411
+Chicopee,9,A,Chicopee Ward 9 Precinct A,782,589,1411
+Chicopee,9,B,Chicopee Ward 9 Precinct B,831,789,1663
+Chilmark,-,1,Chilmark Precinct 1,778,123,945
+Clarksburg,-,1,Clarksburg Precinct 1,551,398,980
+Clinton,-,1,Clinton Precinct 1,1205,833,2108
+Clinton,-,2,Clinton Precinct 2,900,647,1604
+Clinton,-,3,Clinton Precinct 3,1102,840,2007
+Clinton,-,4,Clinton Precinct 4,985,805,1847
+Cohasset,-,1,Cohasset Precinct 1,1137,534,1749
+Cohasset,-,2,Cohasset Precinct 2,1143,632,1865
+Cohasset,-,3,Cohasset Precinct 3,1178,549,1817
+Colrain,-,1,Colrain Precinct 1,644,358,1050
+Concord,-,1,Concord Precinct 1,1654,342,2086
+Concord,-,2,Concord Precinct 2,1972,419,2478
+Concord,-,3,Concord Precinct 3,1965,392,2479
+Concord,-,4,Concord Precinct 4,2092,441,2649
+Concord,-,5,Concord Precinct 5,1905,330,2334
+Conway,-,1,Conway Precinct 1,943,315,1310
+Cummington,-,1,Cummington Precinct 1,399,158,587
+Dalton,-,1,Dalton Precinct 1,1142,637,1860
+Dalton,-,2,Dalton Precinct 2,1180,552,1824
+Danvers,-,1,Danvers Precinct 1,1174,795,2052
+Danvers,-,2,Danvers Precinct 2,1183,855,2100
+Danvers,-,3,Danvers Precinct 3,966,867,1907
+Danvers,-,4,Danvers Precinct 4,1161,867,2108
+Danvers,-,5,Danvers Precinct 5,1103,982,2159
+Danvers,-,6,Danvers Precinct 6,1169,1097,2333
+Danvers,-,7,Danvers Precinct 7,1153,914,2160
+Danvers,-,8,Danvers Precinct 8,860,792,1716
+Dartmouth,-,1,Dartmouth Precinct 1,955,1407,2435
+Dartmouth,-,2,Dartmouth Precinct 2,793,845,1668
+Dartmouth,-,3,Dartmouth Precinct 3,156,150,314
+Dartmouth,-,4,Dartmouth Precinct 4,998,1115,2162
+Dartmouth,-,5,Dartmouth Precinct 5,1058,1052,2165
+Dartmouth,-,6,Dartmouth Precinct 6,870,1070,1999
+Dartmouth,-,7,Dartmouth Precinct 7,1142,1156,2362
+Dartmouth,-,8,Dartmouth Precinct 8,1509,1061,2650
+Dartmouth,-,9,Dartmouth Precinct 9,1573,1138,2794
+Dedham,-,1,Dedham Precinct 1,1522,486,2117
+Dedham,-,2,Dedham Precinct 2,1425,803,2319
+Dedham,-,3,Dedham Precinct 3,1151,622,1851
+Dedham,-,4,Dedham Precinct 4,1313,663,2061
+Dedham,-,5,Dedham Precinct 5,1362,826,2269
+Dedham,-,6,Dedham Precinct 6,1351,714,2155
+Dedham,-,7,Dedham Precinct 7,1370,945,2407
+Deerfield,-,1,Deerfield Precinct 1,2307,865,3308
+Dennis,-,1,Dennis Precinct 1,1270,981,2329
+Dennis,-,2,Dennis Precinct 2,1410,887,2380
+Dennis,-,3,Dennis Precinct 3,895,629,1573
+Dennis,-,4,Dennis Precinct 4,1198,910,2177
+Dennis,-,5,Dennis Precinct 5,1036,771,1857
+Dighton,-,1,Dighton Precinct 1,672,912,1652
+Dighton,-,2,Dighton Precinct 2,600,996,1647
+Dighton,-,3,Dighton Precinct 3,634,897,1576
+Douglas,-,1,Douglas Precinct 1,796,1079,1927
+Douglas,-,2,Douglas Precinct 2,837,1118,2034
+Douglas,-,3,Douglas Precinct 3,774,1074,1912
+Dover,-,1,Dover Precinct 1,2439,1117,3794
+Dracut,-,1,Dracut Precinct 1,805,821,1664
+Dracut,-,2,Dracut Precinct 2,800,864,1713
+Dracut,-,3,Dracut Precinct 3,866,966,1890
+Dracut,-,4,Dracut Precinct 4,1049,1268,2394
+Dracut,-,5,Dracut Precinct 5,833,1097,1996
+Dracut,-,6,Dracut Precinct 6,807,870,1731
+Dracut,-,6A,Dracut Precinct 6A,44,35,82
+Dracut,-,7,Dracut Precinct 7,869,861,1789
+Dracut,-,8,Dracut Precinct 8,965,1357,2401
+Dracut,-,9,Dracut Precinct 9,851,1049,1962
+Dudley,-,1,Dudley Precinct 1,797,1004,1858
+Dudley,-,2,Dudley Precinct 2,612,826,1475
+Dudley,-,3,Dudley Precinct 3,542,732,1328
+Dudley,-,4,Dudley Precinct 4,735,970,1744
+Dunstable,-,1,Dunstable Precinct 1,1205,966,2231
+Duxbury,-,1,Duxbury Precinct 1,1180,741,2006
+Duxbury,-,2,Duxbury Precinct 2,1074,651,1805
+Duxbury,-,3,Duxbury Precinct 3,1067,651,1783
+Duxbury,-,4,Duxbury Precinct 4,1028,670,1779
+Duxbury,-,5,Duxbury Precinct 5,970,692,1724
+Duxbury,-,6,Duxbury Precinct 6,979,649,1700
+E. Bridgewater,-,1,E. Bridgewater Precinct 1,904,1186,2161
+E. Bridgewater,-,2,E. Bridgewater Precinct 2,969,1150,2203
+E. Bridgewater,-,3,E. Bridgewater Precinct 3,948,1232,2240
+E. Bridgewater,-,4,E. Bridgewater Precinct 4,905,1075,2056
+E. Brookfield,-,1,E. Brookfield Precinct 1,556,769,1363
+E. Longmeadow,-,1,E. Longmeadow Precinct 1,1008,853,1884
+E. Longmeadow,-,2,E. Longmeadow Precinct 2,927,897,1891
+E. Longmeadow,-,2A,E. Longmeadow Precinct 2A,9,5,14
+E. Longmeadow,-,3,E. Longmeadow Precinct 3,983,874,1917
+E. Longmeadow,-,3A,E. Longmeadow Precinct 3A,51,49,105
+E. Longmeadow,-,4,E. Longmeadow Precinct 4,778,928,1754
+E. Longmeadow,-,4A,E. Longmeadow Precinct 4A,180,205,393
+E. Longmeadow,-,5,E. Longmeadow Precinct 5,903,953,1928
+Eastham,-,1,Eastham Precinct 1,2885,1157,4164
+Easthampton,-,1,Easthampton Precinct 1,1442,540,2055
+Easthampton,-,2,Easthampton Precinct 2,1392,384,1893
+Easthampton,-,3,Easthampton Precinct 3,1558,444,2136
+Easthampton,-,4,Easthampton Precinct 4,1520,411,2022
+Easthampton,-,5,Easthampton Precinct 5,1304,782,2155
+Easton,-,1,Easton Precinct 1,1349,936,2376
+Easton,-,2,Easton Precinct 2,1334,856,2269
+Easton,-,3,Easton Precinct 3,530,376,943
+Easton,-,4A,Easton Precinct 4A,584,444,1079
+Easton,-,4B,Easton Precinct 4B,679,500,1236
+Easton,-,5,Easton Precinct 5,1230,760,2058
+Easton,-,6,Easton Precinct 6,1111,1009,2226
+Easton,-,7,Easton Precinct 7,1180,896,2149
+Edgartown,-,1,Edgartown Precinct 1,1969,857,2936
+Egremont,-,1,Egremont Precinct 1,752,176,956
+Erving,-,1,Erving Precinct 1,500,434,978
+Essex,-,1,Essex Precinct 1,1540,810,2438
+Everett,1,1,Everett Ward 1 Precinct 1,416,271,706
+Everett,1,2,Everett Ward 1 Precinct 2,289,217,524
+Everett,1,3,Everett Ward 1 Precinct 3,256,119,392
+Everett,1,3A,Everett Ward 1 Precinct 3A,121,77,206
+Everett,2,1,Everett Ward 2 Precinct 1,457,303,786
+Everett,2,2,Everett Ward 2 Precinct 2,388,217,624
+Everett,2,3,Everett Ward 2 Precinct 3,351,227,614
+Everett,3,1,Everett Ward 3 Precinct 1,571,359,975
+Everett,3,2,Everett Ward 3 Precinct 2,466,267,764
+Everett,3,3,Everett Ward 3 Precinct 3,326,206,554
+Everett,4,1,Everett Ward 4 Precinct 1,488,298,811
+Everett,4,2,Everett Ward 4 Precinct 2,444,258,746
+Everett,4,3,Everett Ward 4 Precinct 3,446,257,730
+Everett,5,1,Everett Ward 5 Precinct 1,433,247,708
+Everett,5,2,Everett Ward 5 Precinct 2,387,237,645
+Everett,5,3,Everett Ward 5 Precinct 3,404,232,653
+Everett,6,1,Everett Ward 6 Precinct 1,480,252,769
+Everett,6,2,Everett Ward 6 Precinct 2,385,236,655
+Everett,6,3,Everett Ward 6 Precinct 3,521,254,796
+Fairhaven,-,1,Fairhaven Precinct 1,934,628,1614
+Fairhaven,-,2,Fairhaven Precinct 2,831,707,1574
+Fairhaven,-,3,Fairhaven Precinct 3,612,740,1380
+Fairhaven,-,4,Fairhaven Precinct 4,816,823,1680
+Fairhaven,-,5,Fairhaven Precinct 5,836,820,1702
+Fairhaven,-,6,Fairhaven Precinct 6,752,890,1678
+Fall River,1,A,Fall River Ward 1 Precinct A,719,904,1661
+Fall River,1,B,Fall River Ward 1 Precinct B,492,605,1127
+Fall River,1,C,Fall River Ward 1 Precinct C,513,684,1239
+Fall River,2,A,Fall River Ward 2 Precinct A,400,461,889
+Fall River,2,B,Fall River Ward 2 Precinct B,360,439,816
+Fall River,2,C,Fall River Ward 2 Precinct C,437,510,981
+Fall River,3,A,Fall River Ward 3 Precinct A,534,582,1149
+Fall River,3,B,Fall River Ward 3 Precinct B,485,585,1092
+Fall River,3,C,Fall River Ward 3 Precinct C,642,715,1391
+Fall River,4,A,Fall River Ward 4 Precinct A,403,368,799
+Fall River,4,B,Fall River Ward 4 Precinct B,365,336,712
+Fall River,4,C,Fall River Ward 4 Precinct C,488,354,872
+Fall River,5,A,Fall River Ward 5 Precinct A,312,334,666
+Fall River,5,B,Fall River Ward 5 Precinct B,297,253,576
+Fall River,5,C,Fall River Ward 5 Precinct C,373,401,785
+Fall River,6,A,Fall River Ward 6 Precinct A,589,732,1346
+Fall River,6,B,Fall River Ward 6 Precinct B,560,522,1110
+Fall River,6,C,Fall River Ward 6 Precinct C,512,572,1105
+Fall River,7,A,Fall River Ward 7 Precinct A,678,583,1298
+Fall River,7,B,Fall River Ward 7 Precinct B,467,387,884
+Fall River,7,C,Fall River Ward 7 Precinct C,525,472,1038
+Fall River,8,A,Fall River Ward 8 Precinct A,473,540,1037
+Fall River,8,B,Fall River Ward 8 Precinct B,781,691,1522
+Fall River,8,C,Fall River Ward 8 Precinct C,774,792,1630
+Fall River,9,A,Fall River Ward 9 Precinct A,974,992,2014
+Fall River,9,B,Fall River Ward 9 Precinct B,735,712,1480
+Fall River,9,C,Fall River Ward 9 Precinct C,838,704,1587
+Falmouth,-,1,Falmouth Precinct 1,2002,481,2577
+Falmouth,-,2,Falmouth Precinct 2,1570,737,2368
+Falmouth,-,3,Falmouth Precinct 3,1438,898,2395
+Falmouth,-,4,Falmouth Precinct 4,1465,1001,2548
+Falmouth,-,5,Falmouth Precinct 5,1706,930,2729
+Falmouth,-,6,Falmouth Precinct 6,1642,903,2630
+Falmouth,-,7,Falmouth Precinct 7,1352,978,2416
+Falmouth,-,8,Falmouth Precinct 8,1377,977,2448
+Falmouth,-,9,Falmouth Precinct 9,1192,881,2141
+Fitchburg,1,A,Fitchburg Ward 1 Precinct A,598,455,1096
+Fitchburg,1,B,Fitchburg Ward 1 Precinct B,725,514,1292
+Fitchburg,2,A,Fitchburg Ward 2 Precinct A,536,453,1023
+Fitchburg,2,B,Fitchburg Ward 2 Precinct B,733,588,1372
+Fitchburg,3,A,Fitchburg Ward 3 Precinct A,1069,938,2091
+Fitchburg,3,B,Fitchburg Ward 3 Precinct B,761,680,1489
+Fitchburg,4,A,Fitchburg Ward 4 Precinct A,522,333,897
+Fitchburg,4,B,Fitchburg Ward 4 Precinct B,631,348,1028
+Fitchburg,5,A,Fitchburg Ward 5 Precinct A,1040,882,1976
+Fitchburg,5,B,Fitchburg Ward 5 Precinct B,466,354,843
+Fitchburg,6,A,Fitchburg Ward 6 Precinct A,939,780,1766
+Fitchburg,6,B,Fitchburg Ward 6 Precinct B,593,396,1024
+Florida,-,1,Florida Precinct 1,184,218,416
+Foxborough,-,1,Foxborough Precinct 1,1053,797,1919
+Foxborough,-,2,Foxborough Precinct 2,1356,1113,2565
+Foxborough,-,3,Foxborough Precinct 3,1091,909,2106
+Foxborough,-,4,Foxborough Precinct 4,1274,1000,2366
+Foxborough,-,5,Foxborough Precinct 5,1212,922,2256
+Framingham,-,1,Framingham Precinct 1,267,154,436
+Framingham,-,10,Framingham Precinct 10,505,180,712
+Framingham,-,11,Framingham Precinct 11,655,269,953
+Framingham,-,12,Framingham Precinct 12,561,180,774
+Framingham,-,13,Framingham Precinct 13,372,130,528
+Framingham,-,14,Framingham Precinct 14,458,230,719
+Framingham,-,15,Framingham Precinct 15,534,216,768
+Framingham,-,16,Framingham Precinct 16,773,415,1229
+Framingham,-,17,Framingham Precinct 17,1013,346,1398
+Framingham,-,18,Framingham Precinct 18,1113,453,1621
+Framingham,-,19,Framingham Precinct 19,1102,416,1578
+Framingham,-,2,Framingham Precinct 2,268,149,436
+Framingham,-,20,Framingham Precinct 20,1097,391,1524
+Framingham,-,21A,Framingham Precinct 21A,787,288,1117
+Framingham,-,21B,Framingham Precinct 21B,523,167,723
+Framingham,-,21C,Framingham Precinct 21C,24,15,40
+Framingham,-,22,Framingham Precinct 22,1179,403,1651
+Framingham,-,23,Framingham Precinct 23,1001,450,1515
+Framingham,-,24,Framingham Precinct 24,1050,377,1501
+Framingham,-,25,Framingham Precinct 25,1040,432,1542
+Framingham,-,26,Framingham Precinct 26,936,382,1386
+Framingham,-,27,Framingham Precinct 27,935,352,1337
+Framingham,-,3,Framingham Precinct 3,284,152,457
+Framingham,-,4,Framingham Precinct 4,363,207,595
+Framingham,-,5,Framingham Precinct 5,478,249,755
+Framingham,-,6,Framingham Precinct 6,970,406,1438
+Framingham,-,7,Framingham Precinct 7,1070,339,1477
+Framingham,-,8,Framingham Precinct 8,573,210,810
+Framingham,-,9A,Framingham Precinct 9A,714,299,1061
+Framingham,-,9B,Framingham Precinct 9B,36,15,53
+Franklin,-,1,Franklin Precinct 1,1288,832,2199
+Franklin,-,2,Franklin Precinct 2,1035,772,1862
+Franklin,-,3,Franklin Precinct 3,1231,929,2247
+Franklin,-,4,Franklin Precinct 4,1341,998,2421
+Franklin,-,5,Franklin Precinct 5,1339,845,2283
+Franklin,-,6,Franklin Precinct 6,1331,838,2251
+Franklin,-,7,Franklin Precinct 7,1501,886,2490
+Franklin,-,8,Franklin Precinct 8,1344,1054,2497
+Franklin,-,9,Franklin Precinct 9,1099,671,1820
+Freetown,-,1,Freetown Precinct 1,768,1018,1834
+Freetown,-,2,Freetown Precinct 2,739,1101,1894
+Freetown,-,3,Freetown Precinct 3,729,1065,1859
+Gardner,1,A,Gardner Ward 1 Precinct A,624,450,1115
+Gardner,1,B,Gardner Ward 1 Precinct B,316,329,662
+Gardner,2,A,Gardner Ward 2 Precinct A,534,470,1038
+Gardner,2,B,Gardner Ward 2 Precinct B,539,580,1153
+Gardner,3,A,Gardner Ward 3 Precinct A,413,433,876
+Gardner,3,B,Gardner Ward 3 Precinct B,562,455,1053
+Gardner,4,A,Gardner Ward 4 Precinct A,480,387,892
+Gardner,4,B,Gardner Ward 4 Precinct B,379,348,753
+Gardner,5,A,Gardner Ward 5 Precinct A,391,389,814
+Gardner,5,B,Gardner Ward 5 Precinct B,597,497,1133
+Georgetown,-,1,Georgetown Precinct 1,947,901,1906
+Georgetown,-,2,Georgetown Precinct 2,928,810,1796
+Georgetown,-,3,Georgetown Precinct 3,980,824,1873
+Gill,-,1,Gill Precinct 1,691,288,1016
+Gloucester,1,1,Gloucester Ward 1 Precinct 1,1437,646,2158
+Gloucester,1,2,Gloucester Ward 1 Precinct 2,1088,602,1734
+Gloucester,2,1,Gloucester Ward 2 Precinct 1,887,522,1462
+Gloucester,2,2,Gloucester Ward 2 Precinct 2,779,411,1237
+Gloucester,3,1,Gloucester Ward 3 Precinct 1,826,511,1368
+Gloucester,3,2,Gloucester Ward 3 Precinct 2,897,628,1578
+Gloucester,4,1,Gloucester Ward 4 Precinct 1,1060,722,1840
+Gloucester,4,2,Gloucester Ward 4 Precinct 2,1569,551,2198
+Gloucester,5,1,Gloucester Ward 5 Precinct 1,1292,765,2123
+Gloucester,5,2,Gloucester Ward 5 Precinct 2,1303,817,2200
+Goshen,-,1,Goshen Precinct 1,391,257,671
+Gosnold,-,1,Gosnold Precinct 1,51,15,70
+Grafton,-,1,Grafton Precinct 1,1221,907,2209
+Grafton,-,2,Grafton Precinct 2,1402,839,2345
+Grafton,-,3,Grafton Precinct 3,1327,833,2243
+Grafton,-,4,Grafton Precinct 4,1146,792,1999
+Grafton,-,5,Grafton Precinct 5,1555,845,2493
+Granby,-,1,Granby Precinct 1,1029,886,1989
+Granby,-,2,Granby Precinct 2,878,1013,1950
+Granby,-,2A,Granby Precinct 2A,23,22,45
+Granville,-,1,Granville Precinct 1,357,594,995
+Great Barrington,-,A,Great Barrington Precinct A,840,170,1053
+Great Barrington,-,B,Great Barrington Precinct B,765,230,1043
+Great Barrington,-,C,Great Barrington Precinct C,602,107,734
+Great Barrington,-,D,Great Barrington Precinct D,891,198,1131
+Greenfield,-,1,Greenfield Precinct 1,690,397,1126
+Greenfield,-,2,Greenfield Precinct 2,917,371,1335
+Greenfield,-,3,Greenfield Precinct 3,799,343,1196
+Greenfield,-,4,Greenfield Precinct 4,829,276,1152
+Greenfield,-,5,Greenfield Precinct 5,893,218,1187
+Greenfield,-,6,Greenfield Precinct 6,803,190,1052
+Greenfield,-,7,Greenfield Precinct 7,620,265,917
+Greenfield,-,8,Greenfield Precinct 8,649,224,921
+Greenfield,-,9,Greenfield Precinct 9,455,206,692
+Groton,-,1,Groton Precinct 1,1757,742,2598
+Groton,-,2,Groton Precinct 2,1516,756,2370
+Groton,-,3,Groton Precinct 3,1537,698,2356
+Groveland,-,1,Groveland Precinct 1,1091,1032,2197
+Groveland,-,2,Groveland Precinct 2,1159,1037,2272
+Hadley,-,1,Hadley Precinct 1,2234,968,3342
+Halifax,-,1,Halifax Precinct 1,1036,1414,2531
+Halifax,-,2,Halifax Precinct 2,1015,1234,2316
+Halifax,-,2A,Halifax Precinct 2A,25,66,93
+Hamilton,-,1,Hamilton Precinct 1,1579,750,2445
+Hamilton,-,2,Hamilton Precinct 2,1578,695,2394
+Hampden,-,1,Hampden Precinct 1,1418,1774,3293
+Hancock,-,1,Hancock Precinct 1,245,226,495
+Hanover,-,1,Hanover Precinct 1,1226,1340,2667
+Hanover,-,2,Hanover Precinct 2,1127,1191,2401
+Hanover,-,3,Hanover Precinct 3,1065,1105,2235
+Hanover,-,4,Hanover Precinct 4,1158,1269,2515
+Hanson,-,1,Hanson Precinct 1,972,1214,2267
+Hanson,-,2,Hanson Precinct 2,1063,1290,2448
+Hanson,-,3,Hanson Precinct 3,902,1194,2156
+Hardwick,-,1,Hardwick Precinct 1,706,834,1584
+Harvard,-,1,Harvard Precinct 1,2983,903,4054
+Harwich,-,1,Harwich Precinct 1,1604,919,2600
+Harwich,-,2,Harwich Precinct 2,1426,835,2328
+Harwich,-,3,Harwich Precinct 3,1345,889,2307
+Harwich,-,4,Harwich Precinct 4,1223,849,2130
+Hatfield,-,1,Hatfield Precinct 1,1472,707,2251
+Haverhill,1,1,Haverhill Ward 1 Precinct 1,382,293,695
+Haverhill,1,2,Haverhill Ward 1 Precinct 2,455,266,744
+Haverhill,1,2A,Haverhill Ward 1 Precinct 2A,161,151,324
+Haverhill,1,3,Haverhill Ward 1 Precinct 3,368,279,670
+Haverhill,1,3A,Haverhill Ward 1 Precinct 3A,252,205,468
+Haverhill,2,1,Haverhill Ward 2 Precinct 1,848,601,1493
+Haverhill,2,2,Haverhill Ward 2 Precinct 2,907,615,1568
+Haverhill,2,3,Haverhill Ward 2 Precinct 3,492,388,908
+Haverhill,3,1,Haverhill Ward 3 Precinct 1,639,390,1072
+Haverhill,3,2,Haverhill Ward 3 Precinct 2,600,369,999
+Haverhill,3,3,Haverhill Ward 3 Precinct 3,553,430,1009
+Haverhill,4,1,Haverhill Ward 4 Precinct 1,1006,822,1884
+Haverhill,4,2,Haverhill Ward 4 Precinct 2,1055,957,2077
+Haverhill,4,3,Haverhill Ward 4 Precinct 3,936,836,1826
+Haverhill,5,1,Haverhill Ward 5 Precinct 1,531,382,937
+Haverhill,5,1A,Haverhill Ward 5 Precinct 1A,364,301,684
+Haverhill,5,2,Haverhill Ward 5 Precinct 2,993,920,1966
+Haverhill,5,3,Haverhill Ward 5 Precinct 3,890,909,1859
+Haverhill,5,3A,Haverhill Ward 5 Precinct 3A,66,69,140
+Haverhill,6,1,Haverhill Ward 6 Precinct 1,821,754,1630
+Haverhill,6,2,Haverhill Ward 6 Precinct 2,618,486,1137
+Haverhill,6,2A,Haverhill Ward 6 Precinct 2A,269,181,468
+Haverhill,6,3,Haverhill Ward 6 Precinct 3,977,727,1755
+Haverhill,7,1,Haverhill Ward 7 Precinct 1,917,673,1640
+Haverhill,7,2,Haverhill Ward 7 Precinct 2,596,580,1210
+Haverhill,7,2A,Haverhill Ward 7 Precinct 2A,196,160,379
+Haverhill,7,3,Haverhill Ward 7 Precinct 3,1051,881,2023
+Haverhill,7,3A,Haverhill Ward 7 Precinct 3A,16,10,26
+Hawley,-,1,Hawley Precinct 1,117,66,196
+Heath,-,1,Heath Precinct 1,279,178,472
+Hingham,-,1,Hingham Precinct 1,1424,674,2174
+Hingham,-,2,Hingham Precinct 2,1472,731,2312
+Hingham,-,3,Hingham Precinct 3,1345,698,2137
+Hingham,-,4,Hingham Precinct 4,1499,685,2286
+Hingham,-,5,Hingham Precinct 5,1280,862,2272
+Hingham,-,6,Hingham Precinct 6,1354,706,2157
+Hingham,-,7,Hingham Precinct 7,744,497,1301
+Hingham,-,7A,Hingham Precinct 7A,947,239,1210
+Hinsdale,-,1,Hinsdale Precinct 1,708,464,1218
+Holbrook,-,1,Holbrook Precinct 1,889,534,1470
+Holbrook,-,2,Holbrook Precinct 2,767,734,1560
+Holbrook,-,3,Holbrook Precinct 3,821,639,1513
+Holbrook,-,4,Holbrook Precinct 4,801,615,1461
+Holden,-,1,Holden Precinct 1,1068,925,2081
+Holden,-,2,Holden Precinct 2,1107,792,1978
+Holden,-,3,Holden Precinct 3,1187,869,2150
+Holden,-,4,Holden Precinct 4,1222,898,2201
+Holden,-,5,Holden Precinct 5,1150,884,2106
+Holden,-,6,Holden Precinct 6,1177,854,2125
+Holland,-,1,Holland Precinct 1,658,875,1589
+Holliston,-,1,Holliston Precinct 1,1631,730,2477
+Holliston,-,2,Holliston Precinct 2,1602,634,2332
+Holliston,-,3,Holliston Precinct 3,1424,624,2133
+Holliston,-,4,Holliston Precinct 4,1702,651,2455
+Holyoke,1,A,Holyoke Ward 1 Precinct A,335,205,561
+Holyoke,1,B,Holyoke Ward 1 Precinct B,488,183,706
+Holyoke,2,A,Holyoke Ward 2 Precinct A,484,248,757
+Holyoke,2,B,Holyoke Ward 2 Precinct B,308,199,521
+Holyoke,3,A,Holyoke Ward 3 Precinct A,706,314,1065
+Holyoke,3,B,Holyoke Ward 3 Precinct B,812,502,1359
+Holyoke,4,A,Holyoke Ward 4 Precinct A,357,184,582
+Holyoke,4,B,Holyoke Ward 4 Precinct B,564,245,853
+Holyoke,5,A,Holyoke Ward 5 Precinct A,981,788,1837
+Holyoke,5,B,Holyoke Ward 5 Precinct B,643,516,1202
+Holyoke,6,A,Holyoke Ward 6 Precinct A,667,309,1016
+Holyoke,6,B,Holyoke Ward 6 Precinct B,834,380,1274
+Holyoke,7,A,Holyoke Ward 7 Precinct A,1184,520,1769
+Holyoke,7,B,Holyoke Ward 7 Precinct B,1046,350,1457
+Hopedale,-,1,Hopedale Precinct 1,2054,1428,3616
+Hopkinton,-,1,Hopkinton Precinct 1,1134,530,1738
+Hopkinton,-,2,Hopkinton Precinct 2,1367,686,2131
+Hopkinton,-,3,Hopkinton Precinct 3,1366,638,2090
+Hopkinton,-,4,Hopkinton Precinct 4,1472,666,2253
+Hopkinton,-,5,Hopkinton Precinct 5,1504,659,2248
+Hubbardston,-,1,Hubbardston Precinct 1,1262,1614,2977
+Hudson,-,1,Hudson Precinct 1,1118,668,1864
+Hudson,-,2,Hudson Precinct 2,957,595,1626
+Hudson,-,3,Hudson Precinct 3,1121,753,1949
+Hudson,-,4,Hudson Precinct 4,1319,859,2286
+Hudson,-,5,Hudson Precinct 5,1379,684,2159
+Hudson,-,6,Hudson Precinct 6,899,594,1549
+Hull,-,1,Hull Precinct 1,1537,762,2367
+Hull,-,2,Hull Precinct 2,1172,906,2147
+Hull,-,3,Hull Precinct 3,1462,855,2404
+Huntington,-,1,Huntington Precinct 1,554,651,1239
+Ipswich,-,1,Ipswich Precinct 1,1526,600,2228
+Ipswich,-,2,Ipswich Precinct 2,1597,749,2451
+Ipswich,-,3,Ipswich Precinct 3,1425,964,2488
+Ipswich,-,4,Ipswich Precinct 4,1507,872,2466
+Kingston,-,1,Kingston Precinct 1,1081,1014,2163
+Kingston,-,2,Kingston Precinct 2,1111,1136,2313
+Kingston,-,3,Kingston Precinct 3,1047,1129,2260
+Kingston,-,4,Kingston Precinct 4,1006,963,2024
+Lakeville,-,1,Lakeville Precinct 1,1025,1442,2545
+Lakeville,-,2,Lakeville Precinct 2,1186,1518,2798
+Lakeville,-,3,Lakeville Precinct 3,1057,1361,2512
+Lancaster,-,1,Lancaster Precinct 1,993,837,1897
+Lancaster,-,2,Lancaster Precinct 2,1329,959,2378
+Lanesborough,-,1,Lanesborough Precinct 1,1156,650,1862
+Lawrence,A,1,Lawrence Ward A Precinct 1,539,387,956
+Lawrence,A,2,Lawrence Ward A Precinct 2,312,241,572
+Lawrence,A,2A,Lawrence Ward A Precinct 2A,76,57,139
+Lawrence,A,3,Lawrence Ward A Precinct 3,382,350,755
+Lawrence,A,4,Lawrence Ward A Precinct 4,574,407,1009
+Lawrence,B,1,Lawrence Ward B Precinct 1,551,315,892
+Lawrence,B,2,Lawrence Ward B Precinct 2,352,248,623
+Lawrence,B,3,Lawrence Ward B Precinct 3,411,325,761
+Lawrence,B,4,Lawrence Ward B Precinct 4,519,266,819
+Lawrence,C,1,Lawrence Ward C Precinct 1,421,288,740
+Lawrence,C,2,Lawrence Ward C Precinct 2,508,380,924
+Lawrence,C,3,Lawrence Ward C Precinct 3,372,227,610
+Lawrence,C,4,Lawrence Ward C Precinct 4,386,279,679
+Lawrence,D,1,Lawrence Ward D Precinct 1,573,407,1013
+Lawrence,D,2,Lawrence Ward D Precinct 2,435,343,816
+Lawrence,D,3,Lawrence Ward D Precinct 3,302,189,503
+Lawrence,D,4,Lawrence Ward D Precinct 4,502,288,820
+Lawrence,E,1,Lawrence Ward E Precinct 1,732,571,1327
+Lawrence,E,1A,Lawrence Ward E Precinct 1A,19,25,44
+Lawrence,E,2,Lawrence Ward E Precinct 2,705,569,1305
+Lawrence,E,3,Lawrence Ward E Precinct 3,487,402,912
+Lawrence,E,4,Lawrence Ward E Precinct 4,454,395,874
+Lawrence,F,1,Lawrence Ward F Precinct 1,761,500,1318
+Lawrence,F,2,Lawrence Ward F Precinct 2,437,269,730
+Lawrence,F,3,Lawrence Ward F Precinct 3,649,348,1038
+Lawrence,F,4,Lawrence Ward F Precinct 4,614,401,1042
+Lee,-,1,Lee Precinct 1,2133,999,3258
+Leicester,-,1,Leicester Precinct 1,690,901,1656
+Leicester,-,2,Leicester Precinct 2,754,756,1554
+Leicester,-,3,Leicester Precinct 3,707,859,1617
+Leicester,-,4,Leicester Precinct 4,671,794,1521
+Lenox,-,1,Lenox Precinct 1,2563,617,3297
+Leominster,1,A,Leominster Ward 1 Precinct A,889,746,1719
+Leominster,1,B,Leominster Ward 1 Precinct B,889,652,1641
+Leominster,1,C,Leominster Ward 1 Precinct C,698,514,1289
+Leominster,2,A,Leominster Ward 2 Precinct A,570,428,1054
+Leominster,2,B,Leominster Ward 2 Precinct B,636,582,1298
+Leominster,2,C,Leominster Ward 2 Precinct C,423,449,906
+Leominster,3,A,Leominster Ward 3 Precinct A,745,560,1354
+Leominster,3,B,Leominster Ward 3 Precinct B,965,669,1724
+Leominster,3,C,Leominster Ward 3 Precinct C,801,713,1576
+Leominster,4,A,Leominster Ward 4 Precinct A,862,811,1760
+Leominster,4,B,Leominster Ward 4 Precinct B,789,741,1621
+Leominster,4,C,Leominster Ward 4 Precinct C,660,591,1315
+Leominster,5,A,Leominster Ward 5 Precinct A,653,543,1250
+Leominster,5,B,Leominster Ward 5 Precinct B,817,619,1505
+Leominster,5,C,Leominster Ward 5 Precinct C,558,441,1039
+Leverett,-,1,Leverett Precinct 1,1079,160,1310
+Lexington,-,1,Lexington Precinct 1,1469,361,1946
+Lexington,-,2,Lexington Precinct 2,1825,305,2258
+Lexington,-,3,Lexington Precinct 3,1394,268,1746
+Lexington,-,4,Lexington Precinct 4,1647,331,2092
+Lexington,-,5,Lexington Precinct 5,1497,452,2079
+Lexington,-,6,Lexington Precinct 6,1686,387,2189
+Lexington,-,7,Lexington Precinct 7,1545,438,2074
+Lexington,-,8,Lexington Precinct 8,1569,364,2019
+Lexington,-,9,Lexington Precinct 9,1730,373,2200
+Leyden,-,1,Leyden Precinct 1,315,159,496
+Lincoln,-,1,Lincoln Precinct 1,2039,331,2464
+Lincoln,-,2,Lincoln Precinct 2,1219,303,1583
+Littleton,-,1,Littleton Precinct 1,1465,708,2235
+Littleton,-,2,Littleton Precinct 2,1377,683,2159
+Littleton,-,3,Littleton Precinct 3,1453,623,2192
+Longmeadow,-,A,Longmeadow Precinct A,1307,649,2028
+Longmeadow,-,B,Longmeadow Precinct B,1162,621,1852
+Longmeadow,-,C,Longmeadow Precinct C,1205,783,2065
+Longmeadow,-,D,Longmeadow Precinct D,1136,798,2008
+Longmeadow,-,E,Longmeadow Precinct E,1150,649,1889
+Lowell,1,1,Lowell Ward 1 Precinct 1,557,397,993
+Lowell,1,2,Lowell Ward 1 Precinct 2,699,589,1342
+Lowell,1,3,Lowell Ward 1 Precinct 3,1218,857,2130
+Lowell,1,4,Lowell Ward 1 Precinct 4,502,477,1013
+Lowell,2,1,Lowell Ward 2 Precinct 1,541,370,952
+Lowell,2,2,Lowell Ward 2 Precinct 2,570,375,972
+Lowell,2,3,Lowell Ward 2 Precinct 3,747,443,1224
+Lowell,2,4,Lowell Ward 2 Precinct 4,651,455,1146
+Lowell,3,1,Lowell Ward 3 Precinct 1,630,321,995
+Lowell,3,2,Lowell Ward 3 Precinct 2,1322,850,2252
+Lowell,3,3,Lowell Ward 3 Precinct 3,1098,608,1780
+Lowell,3,4,Lowell Ward 3 Precinct 4,677,476,1208
+Lowell,4,1,Lowell Ward 4 Precinct 1,486,206,739
+Lowell,4,2,Lowell Ward 4 Precinct 2,956,354,1390
+Lowell,4,3,Lowell Ward 4 Precinct 3,469,107,611
+Lowell,4,4,Lowell Ward 4 Precinct 4,453,340,831
+Lowell,5,1,Lowell Ward 5 Precinct 1,826,461,1334
+Lowell,5,2,Lowell Ward 5 Precinct 2,553,397,998
+Lowell,5,3,Lowell Ward 5 Precinct 3,429,263,724
+Lowell,5,4,Lowell Ward 5 Precinct 4,694,539,1266
+Lowell,6,1,Lowell Ward 6 Precinct 1,638,349,1025
+Lowell,6,2,Lowell Ward 6 Precinct 2,407,274,707
+Lowell,6,3,Lowell Ward 6 Precinct 3,400,239,663
+Lowell,6,4,Lowell Ward 6 Precinct 4,570,352,949
+Lowell,7,1,Lowell Ward 7 Precinct 1,484,247,762
+Lowell,7,2,Lowell Ward 7 Precinct 2,517,259,813
+Lowell,7,3,Lowell Ward 7 Precinct 3,585,234,876
+Lowell,7,4,Lowell Ward 7 Precinct 4,352,215,595
+Lowell,8,1,Lowell Ward 8 Precinct 1,659,371,1064
+Lowell,8,2,Lowell Ward 8 Precinct 2,628,328,995
+Lowell,8,3,Lowell Ward 8 Precinct 3,981,627,1689
+Lowell,8,4,Lowell Ward 8 Precinct 4,780,526,1354
+Ludlow,-,1,Ludlow Precinct 1,888,1013,1961
+Ludlow,-,2,Ludlow Precinct 2,677,688,1424
+Ludlow,-,3,Ludlow Precinct 3,904,1377,2332
+Ludlow,-,4,Ludlow Precinct 4,903,913,1866
+Ludlow,-,5,Ludlow Precinct 5,659,813,1520
+Ludlow,-,6,Ludlow Precinct 6,994,1126,2182
+Lunenburg,-,A,Lunenburg Precinct A,961,788,1813
+Lunenburg,-,B,Lunenburg Precinct B,912,769,1744
+Lunenburg,-,B1,Lunenburg Precinct B1,42,37,81
+Lunenburg,-,C,Lunenburg Precinct C,887,777,1725
+Lunenburg,-,C1,Lunenburg Precinct C1,9,4,13
+Lunenburg,-,D,Lunenburg Precinct D,1055,832,1965
+Lynn,1,1,Lynn Ward 1 Precinct 1,1188,947,2209
+Lynn,1,2,Lynn Ward 1 Precinct 2,865,719,1645
+Lynn,1,2A,Lynn Ward 1 Precinct 2A,207,140,355
+Lynn,1,3,Lynn Ward 1 Precinct 3,993,668,1730
+Lynn,1,4,Lynn Ward 1 Precinct 4,815,524,1382
+Lynn,2,1,Lynn Ward 2 Precinct 1,1047,745,1853
+Lynn,2,2,Lynn Ward 2 Precinct 2,629,434,1104
+Lynn,2,3,Lynn Ward 2 Precinct 3,492,261,781
+Lynn,2,4,Lynn Ward 2 Precinct 4,449,255,734
+Lynn,3,1,Lynn Ward 3 Precinct 1,744,493,1294
+Lynn,3,2,Lynn Ward 3 Precinct 2,509,336,888
+Lynn,3,3,Lynn Ward 3 Precinct 3,790,419,1252
+Lynn,3,4,Lynn Ward 3 Precinct 4,848,363,1257
+Lynn,4,1,Lynn Ward 4 Precinct 1,343,218,584
+Lynn,4,2,Lynn Ward 4 Precinct 2,410,189,624
+Lynn,4,3,Lynn Ward 4 Precinct 3,517,289,839
+Lynn,4,3A,Lynn Ward 4 Precinct 3A,108,57,181
+Lynn,4,4,Lynn Ward 4 Precinct 4,684,367,1103
+Lynn,5,1,Lynn Ward 5 Precinct 1,759,479,1286
+Lynn,5,2,Lynn Ward 5 Precinct 2,398,246,669
+Lynn,5,3,Lynn Ward 5 Precinct 3,366,210,595
+Lynn,5,4,Lynn Ward 5 Precinct 4,806,363,1227
+Lynn,6,1,Lynn Ward 6 Precinct 1,538,259,832
+Lynn,6,2,Lynn Ward 6 Precinct 2,378,269,665
+Lynn,6,3,Lynn Ward 6 Precinct 3,431,258,716
+Lynn,6,4,Lynn Ward 6 Precinct 4,652,388,1080
+Lynn,7,1,Lynn Ward 7 Precinct 1,914,582,1555
+Lynn,7,2,Lynn Ward 7 Precinct 2,895,587,1530
+Lynn,7,3,Lynn Ward 7 Precinct 3,550,374,961
+Lynn,7,4,Lynn Ward 7 Precinct 4,657,426,1116
+Lynnfield,-,1,Lynnfield Precinct 1,984,940,1991
+Lynnfield,-,2,Lynnfield Precinct 2,1005,984,2061
+Lynnfield,-,3,Lynnfield Precinct 3,918,1021,2011
+Lynnfield,-,4,Lynnfield Precinct 4,906,1133,2104
+Malden,1,1,Malden Ward 1 Precinct 1,570,177,772
+Malden,1,2,Malden Ward 1 Precinct 2,586,266,891
+Malden,1,3,Malden Ward 1 Precinct 3,632,252,929
+Malden,2,1,Malden Ward 2 Precinct 1,496,203,747
+Malden,2,2,Malden Ward 2 Precinct 2,506,308,864
+Malden,2,3,Malden Ward 2 Precinct 3,647,322,1018
+Malden,3,1,Malden Ward 3 Precinct 1,398,160,589
+Malden,3,1A,Malden Ward 3 Precinct 1A,472,216,716
+Malden,3,2,Malden Ward 3 Precinct 2,692,207,977
+Malden,3,3,Malden Ward 3 Precinct 3,834,246,1139
+Malden,4,1,Malden Ward 4 Precinct 1,620,234,894
+Malden,4,2,Malden Ward 4 Precinct 2,442,132,604
+Malden,4,3,Malden Ward 4 Precinct 3,641,166,850
+Malden,5,1,Malden Ward 5 Precinct 1,619,287,955
+Malden,5,2,Malden Ward 5 Precinct 2,958,353,1352
+Malden,5,3,Malden Ward 5 Precinct 3,356,119,497
+Malden,5,3A,Malden Ward 5 Precinct 3A,383,141,551
+Malden,6,1,Malden Ward 6 Precinct 1,844,387,1283
+Malden,6,2,Malden Ward 6 Precinct 2,615,290,943
+Malden,6,3,Malden Ward 6 Precinct 3,626,343,1012
+Malden,7,1,Malden Ward 7 Precinct 1,553,183,779
+Malden,7,2,Malden Ward 7 Precinct 2,546,258,852
+Malden,7,3,Malden Ward 7 Precinct 3,285,191,498
+Malden,7,3A,Malden Ward 7 Precinct 3A,248,99,362
+Malden,8,1,Malden Ward 8 Precinct 1,661,379,1099
+Malden,8,2,Malden Ward 8 Precinct 2,623,299,960
+Malden,8,3,Malden Ward 8 Precinct 3,474,225,742
+Manchester-by-the-Sea,-,1,Manchester-by-the-Sea Precinct 1,2575,952,3682
+Mansfield,-,1,Mansfield Precinct 1,1121,931,2165
+Mansfield,-,2,Mansfield Precinct 2,844,636,1538
+Mansfield,-,2A,Mansfield Precinct 2A,351,231,604
+Mansfield,-,3,Mansfield Precinct 3,1327,922,2337
+Mansfield,-,4,Mansfield Precinct 4,1146,810,2064
+Mansfield,-,5,Mansfield Precinct 5,994,669,1749
+Mansfield,-,6,Mansfield Precinct 6,899,571,1553
+Mansfield,-,6A,Mansfield Precinct 6A,136,90,235
+Mansfield,-,7,Mansfield Precinct 7,1121,673,1856
+Marblehead,-,1,Marblehead Precinct 1,1657,603,2362
+Marblehead,-,2,Marblehead Precinct 2,1645,598,2338
+Marblehead,-,3,Marblehead Precinct 3,1449,638,2162
+Marblehead,-,4,Marblehead Precinct 4,1526,686,2331
+Marblehead,-,5,Marblehead Precinct 5,1468,692,2223
+Marblehead,-,6,Marblehead Precinct 6,1554,698,2344
+Marion,-,1,Marion Precinct 1,2236,1308,3680
+Marlborough,1,1,Marlborough Ward 1 Precinct 1,678,364,1077
+Marlborough,1,1A,Marlborough Ward 1 Precinct 1A,23,7,30
+Marlborough,1,2,Marlborough Ward 1 Precinct 2,1155,585,1816
+Marlborough,2,1,Marlborough Ward 2 Precinct 1,852,562,1474
+Marlborough,2,2,Marlborough Ward 2 Precinct 2,723,411,1158
+Marlborough,2,2A,Marlborough Ward 2 Precinct 2A,4,7,13
+Marlborough,3,1,Marlborough Ward 3 Precinct 1,532,378,960
+Marlborough,3,2,Marlborough Ward 3 Precinct 2,1118,573,1767
+Marlborough,4,1,Marlborough Ward 4 Precinct 1,439,333,791
+Marlborough,4,2,Marlborough Ward 4 Precinct 2,1036,632,1736
+Marlborough,5,1,Marlborough Ward 5 Precinct 1,527,348,900
+Marlborough,5,2,Marlborough Ward 5 Precinct 2,910,481,1438
+Marlborough,6,1,Marlborough Ward 6 Precinct 1,567,369,959
+Marlborough,6,2,Marlborough Ward 6 Precinct 2,999,665,1727
+Marlborough,7,1,Marlborough Ward 7 Precinct 1,683,430,1143
+Marlborough,7,2,Marlborough Ward 7 Precinct 2,720,492,1254
+Marlborough,7,2A,Marlborough Ward 7 Precinct 2A,30,14,45
+Marshfield,-,1,Marshfield Precinct 1,1236,1225,2546
+Marshfield,-,2,Marshfield Precinct 2,1104,1017,2204
+Marshfield,-,2A,Marshfield Precinct 2A,177,105,289
+Marshfield,-,3,Marshfield Precinct 3,1310,1198,2605
+Marshfield,-,4,Marshfield Precinct 4,1135,1000,2222
+Marshfield,-,5,Marshfield Precinct 5,1188,1041,2323
+Marshfield,-,6,Marshfield Precinct 6,1418,1288,2804
+Marshfield,-,7,Marshfield Precinct 7,1335,1154,2579
+Mashpee,-,1,Mashpee Precinct 1,1257,745,2058
+Mashpee,-,2,Mashpee Precinct 2,1006,805,1867
+Mashpee,-,3,Mashpee Precinct 3,949,892,1894
+Mashpee,-,4,Mashpee Precinct 4,1135,725,1922
+Mashpee,-,5,Mashpee Precinct 5,1536,1138,2757
+Mattapoisett,-,1,Mattapoisett Precinct 1,1337,1066,2467
+Mattapoisett,-,2,Mattapoisett Precinct 2,1402,1010,2494
+Maynard,-,1,Maynard Precinct 1,1194,468,1724
+Maynard,-,2,Maynard Precinct 2,1045,396,1494
+Maynard,-,3,Maynard Precinct 3,1472,512,2063
+Maynard,-,4,Maynard Precinct 4,1032,390,1481
+Medfield,-,1,Medfield Precinct 1,1376,693,2167
+Medfield,-,2,Medfield Precinct 2,1337,568,1985
+Medfield,-,3,Medfield Precinct 3,1274,633,2017
+Medfield,-,4,Medfield Precinct 4,1243,606,1964
+Medford,1,1,Medford Ward 1 Precinct 1,1244,635,1969
+Medford,1,2,Medford Ward 1 Precinct 2,1301,604,2010
+Medford,2,1,Medford Ward 2 Precinct 1,1162,587,1831
+Medford,2,2,Medford Ward 2 Precinct 2,1505,848,2467
+Medford,3,1,Medford Ward 3 Precinct 1,1486,692,2268
+Medford,3,2,Medford Ward 3 Precinct 2,1652,678,2425
+Medford,4,1,Medford Ward 4 Precinct 1,741,144,928
+Medford,4,2,Medford Ward 4 Precinct 2,1466,417,1988
+Medford,5,1,Medford Ward 5 Precinct 1,1308,383,1777
+Medford,5,2,Medford Ward 5 Precinct 2,1403,351,1849
+Medford,6,1,Medford Ward 6 Precinct 1,1757,329,2181
+Medford,6,2,Medford Ward 6 Precinct 2,1447,455,1990
+Medford,6,2A,Medford Ward 6 Precinct 2A,102,45,153
+Medford,7,1,Medford Ward 7 Precinct 1,847,287,1190
+Medford,7,2,Medford Ward 7 Precinct 2,1015,343,1423
+Medford,7,2A,Medford Ward 7 Precinct 2A,44,6,50
+Medford,8,1,Medford Ward 8 Precinct 1,1356,509,1956
+Medford,8,2,Medford Ward 8 Precinct 2,1214,461,1752
+Medway,-,1,Medway Precinct 1,1166,723,1976
+Medway,-,2,Medway Precinct 2,1337,814,2238
+Medway,-,3,Medway Precinct 3,1292,827,2191
+Medway,-,4,Medway Precinct 4,1234,828,2130
+Melrose,1,1,Melrose Ward 1 Precinct 1,1021,276,1349
+Melrose,1,2,Melrose Ward 1 Precinct 2,847,257,1166
+Melrose,2,1,Melrose Ward 2 Precinct 1,894,392,1342
+Melrose,2,2,Melrose Ward 2 Precinct 2,855,343,1242
+Melrose,3,1,Melrose Ward 3 Precinct 1,844,284,1173
+Melrose,3,2,Melrose Ward 3 Precinct 2,872,330,1253
+Melrose,4,1,Melrose Ward 4 Precinct 1,843,297,1187
+Melrose,4,2,Melrose Ward 4 Precinct 2,892,456,1424
+Melrose,5,1,Melrose Ward 5 Precinct 1,703,225,959
+Melrose,5,2,Melrose Ward 5 Precinct 2,705,181,917
+Melrose,6,1,Melrose Ward 6 Precinct 1,838,297,1175
+Melrose,6,2,Melrose Ward 6 Precinct 2,937,452,1427
+Melrose,7,1,Melrose Ward 7 Precinct 1,891,342,1285
+Melrose,7,2,Melrose Ward 7 Precinct 2,899,447,1402
+Mendon,-,1,Mendon Precinct 1,935,913,1916
+Mendon,-,2,Mendon Precinct 2,1037,964,2092
+Merrimac,-,1,Merrimac Precinct 1,1148,855,2077
+Merrimac,-,2,Merrimac Precinct 2,1235,959,2273
+Methuen,-,1,Methuen Precinct 1,579,468,1061
+Methuen,-,10,Methuen Precinct 10,879,862,1809
+Methuen,-,11,Methuen Precinct 11,972,1156,2182
+Methuen,-,12,Methuen Precinct 12,922,883,1843
+Methuen,-,13,Methuen Precinct 13,521,535,1083
+Methuen,-,13A,Methuen Precinct 13A,307,297,624
+Methuen,-,14,Methuen Precinct 14,897,755,1675
+Methuen,-,15,Methuen Precinct 15,670,546,1253
+Methuen,-,2,Methuen Precinct 2,600,445,1076
+Methuen,-,3,Methuen Precinct 3,871,745,1655
+Methuen,-,4,Methuen Precinct 4,772,624,1435
+Methuen,-,5,Methuen Precinct 5,824,806,1678
+Methuen,-,6,Methuen Precinct 6,668,721,1423
+Methuen,-,6A,Methuen Precinct 6A,89,73,169
+Methuen,-,7,Methuen Precinct 7,951,917,1933
+Methuen,-,8,Methuen Precinct 8,892,939,1875
+Methuen,-,9,Methuen Precinct 9,806,1058,1929
+Middleborough,-,1,Middleborough Precinct 1,1183,1414,2658
+Middleborough,-,2,Middleborough Precinct 2,824,901,1775
+Middleborough,-,3,Middleborough Precinct 3,814,1254,2117
+Middleborough,-,4,Middleborough Precinct 4,695,843,1587
+Middleborough,-,5,Middleborough Precinct 5,704,1113,1871
+Middleborough,-,5A,Middleborough Precinct 5A,148,259,414
+Middleborough,-,6,Middleborough Precinct 6,847,1179,2091
+Middleborough,-,7,Middleborough Precinct 7,627,803,1480
+Middleborough,-,7A,Middleborough Precinct 7A,179,348,544
+Middlefield,-,1,Middlefield Precinct 1,185,126,317
+Middleton,-,1,Middleton Precinct 1,1066,1173,2323
+Middleton,-,2,Middleton Precinct 2,640,770,1466
+Middleton,-,3,Middleton Precinct 3,852,1140,2057
+Milford,-,1,Milford Precinct 1,596,438,1062
+Milford,-,2,Milford Precinct 2,935,799,1791
+Milford,-,3,Milford Precinct 3,826,735,1624
+Milford,-,4,Milford Precinct 4,578,522,1139
+Milford,-,5,Milford Precinct 5,1194,959,2241
+Milford,-,6,Milford Precinct 6,997,754,1823
+Milford,-,7,Milford Precinct 7,1304,959,2341
+Milford,-,8,Milford Precinct 8,1156,776,2012
+Millbury,-,1,Millbury Precinct 1,913,976,1948
+Millbury,-,2,Millbury Precinct 2,1031,1113,2209
+Millbury,-,3,Millbury Precinct 3,1015,997,2083
+Millbury,-,4,Millbury Precinct 4,945,908,1918
+Millis,-,1,Millis Precinct 1,1044,672,1794
+Millis,-,2,Millis Precinct 2,1014,763,1859
+Millis,-,3,Millis Precinct 3,1502,821,2412
+Millville,-,1,Millville Precinct 1,708,1055,1808
+Milton,-,1,Milton Precinct 1,1343,256,1648
+Milton,-,10,Milton Precinct 10,977,214,1251
+Milton,-,2,Milton Precinct 2,1474,267,1814
+Milton,-,3,Milton Precinct 3,1316,424,1813
+Milton,-,4,Milton Precinct 4,727,283,1052
+Milton,-,4A,Milton Precinct 4A,508,118,660
+Milton,-,5,Milton Precinct 5,1016,356,1419
+Milton,-,6,Milton Precinct 6,1075,648,1813
+Milton,-,7,Milton Precinct 7,1028,578,1677
+Milton,-,8,Milton Precinct 8,1131,692,1897
+Milton,-,9,Milton Precinct 9,1123,708,1908
+Monroe,-,1,Monroe Precinct 1,24,39,66
+Monson,-,A,Monson Precinct A,747,920,1719
+Monson,-,B,Monson Precinct B,726,884,1651
+Monson,-,C,Monson Precinct C,774,909,1733
+Montague,-,1,Montague Precinct 1,790,194,1035
+Montague,-,2,Montague Precinct 2,493,306,839
+Montague,-,3,Montague Precinct 3,524,296,854
+Montague,-,4,Montague Precinct 4,553,214,796
+Montague,-,5,Montague Precinct 5,420,130,611
+Montague,-,6,Montague Precinct 6,453,222,707
+Monterey,-,1,Monterey Precinct 1,482,95,604
+Montgomery,-,1,Montgomery Precinct 1,237,302,556
+Mount Washington,-,1,Mount Washington Precinct 1,93,23,125
+N. Adams,1,1,N. Adams Ward 1 Precinct 1,835,413,1289
+N. Adams,2,2,N. Adams Ward 2 Precinct 2,762,350,1150
+N. Adams,3,3,N. Adams Ward 3 Precinct 3,549,230,819
+N. Adams,4,4,N. Adams Ward 4 Precinct 4,862,418,1310
+N. Adams,5,5,N. Adams Ward 5 Precinct 5,750,363,1159
+N. Andover,-,1,N. Andover Precinct 1,1204,798,2076
+N. Andover,-,2,N. Andover Precinct 2,1238,839,2162
+N. Andover,-,3,N. Andover Precinct 3,1103,819,2010
+N. Andover,-,4,N. Andover Precinct 4,1583,888,2584
+N. Andover,-,5,N. Andover Precinct 5,682,440,1174
+N. Andover,-,6,N. Andover Precinct 6,1406,949,2456
+N. Andover,-,7,N. Andover Precinct 7,1403,814,2316
+N. Andover,-,8,N. Andover Precinct 8,1293,982,2363
+N. Attleborough,-,1,N. Attleborough Precinct 1,856,592,1497
+N. Attleborough,-,2,N. Attleborough Precinct 2,1047,838,1949
+N. Attleborough,-,3,N. Attleborough Precinct 3,909,1014,2044
+N. Attleborough,-,4,N. Attleborough Precinct 4,936,705,1701
+N. Attleborough,-,5,N. Attleborough Precinct 5,921,812,1794
+N. Attleborough,-,6,N. Attleborough Precinct 6,1071,865,2029
+N. Attleborough,-,7,N. Attleborough Precinct 7,1124,1028,2237
+N. Attleborough,-,8,N. Attleborough Precinct 8,1024,848,1961
+N. Attleborough,-,9,N. Attleborough Precinct 9,926,877,1864
+N. Brookfield,-,1,N. Brookfield Precinct 1,1156,1623,2854
+N. Reading,-,1,N. Reading Precinct 1,1330,1053,2469
+N. Reading,-,2,N. Reading Precinct 2,1382,1162,2645
+N. Reading,-,3,N. Reading Precinct 3,1227,1119,2439
+N. Reading,-,4,N. Reading Precinct 4,1287,1101,2483
+Nahant,-,1,Nahant Precinct 1,1445,841,2352
+Nantucket,-,1,Nantucket Precinct 1,4784,2171,7174
+Natick,-,1,Natick Precinct 1,946,359,1350
+Natick,-,10,Natick Precinct 10,1881,590,2580
+Natick,-,2,Natick Precinct 2,1420,531,2061
+Natick,-,3,Natick Precinct 3,1471,547,2104
+Natick,-,4,Natick Precinct 4,1475,423,1985
+Natick,-,5,Natick Precinct 5,1427,613,2119
+Natick,-,6,Natick Precinct 6,1388,544,2009
+Natick,-,7,Natick Precinct 7,1832,504,2423
+Natick,-,8,Natick Precinct 8,1610,546,2253
+Natick,-,9,Natick Precinct 9,1711,462,2264
+Needham,-,A,Needham Precinct A,1171,463,1730
+Needham,-,B,Needham Precinct B,1460,449,1997
+Needham,-,C,Needham Precinct C,1407,385,1875
+Needham,-,D,Needham Precinct D,1394,399,1876
+Needham,-,E,Needham Precinct E,1508,422,2016
+Needham,-,F,Needham Precinct F,1438,408,1934
+Needham,-,G,Needham Precinct G,1519,414,2022
+Needham,-,H,Needham Precinct H,1537,486,2131
+Needham,-,I,Needham Precinct I,1679,371,2145
+Needham,-,J,Needham Precinct J,1473,436,1980
+New Ashford,-,1,New Ashford Precinct 1,93,65,164
+New Bedford,1,A,New Bedford Ward 1 Precinct A,534,617,1183
+New Bedford,1,A1,New Bedford Ward 1 Precinct A1,65,50,123
+New Bedford,1,B,New Bedford Ward 1 Precinct B,640,726,1392
+New Bedford,1,B1,New Bedford Ward 1 Precinct B1,58,44,104
+New Bedford,1,C,New Bedford Ward 1 Precinct C,447,479,950
+New Bedford,1,C1,New Bedford Ward 1 Precinct C1,92,93,190
+New Bedford,1,D,New Bedford Ward 1 Precinct D,674,872,1593
+New Bedford,1,E,New Bedford Ward 1 Precinct E,674,682,1383
+New Bedford,1,F,New Bedford Ward 1 Precinct F,647,748,1427
+New Bedford,2,A,New Bedford Ward 2 Precinct A,168,134,315
+New Bedford,2,B,New Bedford Ward 2 Precinct B,227,260,502
+New Bedford,2,C,New Bedford Ward 2 Precinct C,274,304,593
+New Bedford,2,D,New Bedford Ward 2 Precinct D,544,435,1012
+New Bedford,2,E,New Bedford Ward 2 Precinct E,536,666,1234
+New Bedford,2,F,New Bedford Ward 2 Precinct F,414,456,908
+New Bedford,3,A,New Bedford Ward 3 Precinct A,352,212,584
+New Bedford,3,B,New Bedford Ward 3 Precinct B,325,274,616
+New Bedford,3,C,New Bedford Ward 3 Precinct C,231,250,501
+New Bedford,3,D,New Bedford Ward 3 Precinct D,383,370,775
+New Bedford,3,E,New Bedford Ward 3 Precinct E,573,495,1102
+New Bedford,3,F,New Bedford Ward 3 Precinct F,515,393,936
+New Bedford,3,F1,New Bedford Ward 3 Precinct F1,240,196,446
+New Bedford,4,A,New Bedford Ward 4 Precinct A,207,96,312
+New Bedford,4,A1,New Bedford Ward 4 Precinct A1,217,108,339
+New Bedford,4,B,New Bedford Ward 4 Precinct B,571,341,957
+New Bedford,4,C,New Bedford Ward 4 Precinct C,663,277,976
+New Bedford,4,D,New Bedford Ward 4 Precinct D,489,351,874
+New Bedford,4,E,New Bedford Ward 4 Precinct E,486,355,861
+New Bedford,4,F,New Bedford Ward 4 Precinct F,617,369,1015
+New Bedford,5,A,New Bedford Ward 5 Precinct A,691,409,1125
+New Bedford,5,B,New Bedford Ward 5 Precinct B,619,394,1046
+New Bedford,5,C,New Bedford Ward 5 Precinct C,559,452,1034
+New Bedford,5,D,New Bedford Ward 5 Precinct D,736,411,1190
+New Bedford,5,E,New Bedford Ward 5 Precinct E,820,546,1396
+New Bedford,5,F,New Bedford Ward 5 Precinct F,779,573,1396
+New Bedford,6,A,New Bedford Ward 6 Precinct A,609,571,1213
+New Bedford,6,B,New Bedford Ward 6 Precinct B,496,437,959
+New Bedford,6,C,New Bedford Ward 6 Precinct C,287,267,573
+New Bedford,6,D,New Bedford Ward 6 Precinct D,225,206,438
+New Bedford,6,E,New Bedford Ward 6 Precinct E,272,268,555
+New Bedford,6,F,New Bedford Ward 6 Precinct F,416,365,808
+New Braintree,-,1,New Braintree Precinct 1,307,346,675
+New Marlborough,-,1,New Marlborough Precinct 1,666,275,1002
+New Salem,-,1,New Salem Precinct 1,420,260,714
+Newbury,-,1,Newbury Precinct 1,1518,835,2455
+Newbury,-,2,Newbury Precinct 2,1428,958,2446
+Newburyport,1,1,Newburyport Ward 1 Precinct 1,1245,323,1630
+Newburyport,1,P,Newburyport Ward 1 Precinct P,282,190,480
+Newburyport,2,1,Newburyport Ward 2 Precinct 1,1545,438,2071
+Newburyport,3,1,Newburyport Ward 3 Precinct 1,1661,501,2252
+Newburyport,4,1,Newburyport Ward 4 Precinct 1,1569,527,2189
+Newburyport,5,1,Newburyport Ward 5 Precinct 1,1199,615,1891
+Newburyport,6,1,Newburyport Ward 6 Precinct 1,1310,684,2066
+Newton,1,1,Newton Ward 1 Precinct 1,914,439,1427
+Newton,1,2,Newton Ward 1 Precinct 2,1176,210,1448
+Newton,1,2A,Newton Ward 1 Precinct 2A,58,12,75
+Newton,1,3,Newton Ward 1 Precinct 3,1213,208,1478
+Newton,1,4,Newton Ward 1 Precinct 4,981,438,1486
+Newton,2,1,Newton Ward 2 Precinct 1,1149,255,1473
+Newton,2,2,Newton Ward 2 Precinct 2,889,171,1121
+Newton,2,3,Newton Ward 2 Precinct 3,1392,225,1692
+Newton,2,4,Newton Ward 2 Precinct 4,1446,278,1827
+Newton,3,1,Newton Ward 3 Precinct 1,1241,295,1593
+Newton,3,2,Newton Ward 3 Precinct 2,1307,217,1598
+Newton,3,3,Newton Ward 3 Precinct 3,1183,399,1645
+Newton,3,4,Newton Ward 3 Precinct 4,1112,384,1565
+Newton,4,1,Newton Ward 4 Precinct 1,1141,315,1514
+Newton,4,2,Newton Ward 4 Precinct 2,1160,174,1385
+Newton,4,3,Newton Ward 4 Precinct 3,882,184,1112
+Newton,4,4,Newton Ward 4 Precinct 4,1081,328,1471
+Newton,5,1,Newton Ward 5 Precinct 1,1094,290,1461
+Newton,5,2,Newton Ward 5 Precinct 2,1289,200,1542
+Newton,5,3,Newton Ward 5 Precinct 3,1484,216,1759
+Newton,5,4,Newton Ward 5 Precinct 4,1445,200,1734
+Newton,6,1,Newton Ward 6 Precinct 1,1134,309,1522
+Newton,6,2,Newton Ward 6 Precinct 2,1230,196,1496
+Newton,6,3,Newton Ward 6 Precinct 3,1451,176,1695
+Newton,6,4,Newton Ward 6 Precinct 4,1504,217,1789
+Newton,7,1,Newton Ward 7 Precinct 1,979,264,1336
+Newton,7,2,Newton Ward 7 Precinct 2,1370,283,1728
+Newton,7,3,Newton Ward 7 Precinct 3,386,87,492
+Newton,7,4,Newton Ward 7 Precinct 4,593,163,826
+Newton,8,1,Newton Ward 8 Precinct 1,1018,396,1488
+Newton,8,2,Newton Ward 8 Precinct 2,1019,394,1511
+Newton,8,3,Newton Ward 8 Precinct 3,1153,361,1594
+Newton,8,4,Newton Ward 8 Precinct 4,971,415,1460
+Norfolk,-,1,Norfolk Precinct 1,657,472,1177
+Norfolk,-,2,Norfolk Precinct 2,1171,825,2073
+Norfolk,-,3,Norfolk Precinct 3,960,737,1758
+Norfolk,-,4,Norfolk Precinct 4,1107,709,1883
+Northampton,1,A,Northampton Ward 1 Precinct A,958,144,1153
+Northampton,1,B,Northampton Ward 1 Precinct B,1167,90,1317
+Northampton,2,A,Northampton Ward 2 Precinct A,899,39,998
+Northampton,2,B,Northampton Ward 2 Precinct B,728,52,824
+Northampton,3,A,Northampton Ward 3 Precinct A,1017,139,1266
+Northampton,3,B,Northampton Ward 3 Precinct B,1041,94,1245
+Northampton,4,A,Northampton Ward 4 Precinct A,864,64,991
+Northampton,4,B,Northampton Ward 4 Precinct B,1137,105,1327
+Northampton,5,A,Northampton Ward 5 Precinct A,947,128,1124
+Northampton,5,B,Northampton Ward 5 Precinct B,1141,113,1315
+Northampton,6,A,Northampton Ward 6 Precinct A,1165,317,1548
+Northampton,6,B,Northampton Ward 6 Precinct B,1259,209,1519
+Northampton,7,A,Northampton Ward 7 Precinct A,1057,142,1256
+Northampton,7,B,Northampton Ward 7 Precinct B,1097,164,1332
+Northborough,-,1,Northborough Precinct 1,1421,774,2296
+Northborough,-,2,Northborough Precinct 2,1443,688,2231
+Northborough,-,3,Northborough Precinct 3,1517,730,2361
+Northborough,-,4,Northborough Precinct 4,1470,777,2352
+Northbridge,-,1,Northbridge Precinct 1,1061,872,2021
+Northbridge,-,2,Northbridge Precinct 2,808,793,1682
+Northbridge,-,3,Northbridge Precinct 3,710,784,1549
+Northbridge,-,4,Northbridge Precinct 4,953,1067,2101
+Northbridge,-,5,Northbridge Precinct 5,841,999,1923
+Northfield,-,1,Northfield Precinct 1,1179,689,1954
+Norton,-,1,Norton Precinct 1,1016,956,2025
+Norton,-,2,Norton Precinct 2,1283,1208,2558
+Norton,-,3,Norton Precinct 3,1283,1208,2558
+Norton,-,4,Norton Precinct 4,1069,1007,2132
+Norton,-,5,Norton Precinct 5,695,654,1386
+Norwell,-,1,Norwell Precinct 1,1200,947,2233
+Norwell,-,2,Norwell Precinct 2,1341,1097,2541
+Norwell,-,3,Norwell Precinct 3,1383,886,2381
+Norwood,-,1,Norwood Precinct 1,1181,666,1908
+Norwood,-,2,Norwood Precinct 2,1065,665,1798
+Norwood,-,3,Norwood Precinct 3,1167,693,1946
+Norwood,-,4,Norwood Precinct 4,1272,759,2108
+Norwood,-,5,Norwood Precinct 5,840,426,1309
+Norwood,-,6,Norwood Precinct 6,780,626,1468
+Norwood,-,7,Norwood Precinct 7,1085,736,1881
+Norwood,-,8,Norwood Precinct 8,1156,754,1996
+Norwood,-,9,Norwood Precinct 9,1020,831,1930
+Oak Bluffs,-,1,Oak Bluffs Precinct 1,2247,798,3130
+Oakham,-,1,Oakham Precinct 1,514,720,1266
+Orange,-,1,Orange Precinct 1,878,1015,1959
+Orange,-,2,Orange Precinct 2,1001,927,1985
+Orleans,-,1,Orleans Precinct 1,1711,606,2403
+Orleans,-,2,Orleans Precinct 2,1514,827,2419
+Otis,-,1,Otis Precinct 1,549,489,1073
+Oxford,-,1,Oxford Precinct 1,840,1090,2000
+Oxford,-,2,Oxford Precinct 2,838,944,1831
+Oxford,-,3,Oxford Precinct 3,858,1026,1926
+Oxford,-,4,Oxford Precinct 4,765,1005,1821
+Oxford,-,4A,Oxford Precinct 4A,9,19,32
+Palmer,-,1,Palmer Precinct 1,762,945,1766
+Palmer,-,2,Palmer Precinct 2,697,1012,1758
+Palmer,-,3,Palmer Precinct 3,666,664,1377
+Palmer,-,4,Palmer Precinct 4,630,899,1564
+Paxton,-,1,Paxton Precinct 1,1557,1350,2997
+Peabody,1,1,Peabody Ward 1 Precinct 1,920,795,1777
+Peabody,1,2,Peabody Ward 1 Precinct 2,856,908,1813
+Peabody,1,3,Peabody Ward 1 Precinct 3,937,1014,1994
+Peabody,2,1,Peabody Ward 2 Precinct 1,646,454,1129
+Peabody,2,2,Peabody Ward 2 Precinct 2,627,495,1151
+Peabody,2,3,Peabody Ward 2 Precinct 3,761,701,1502
+Peabody,3,1,Peabody Ward 3 Precinct 1,498,408,942
+Peabody,3,2,Peabody Ward 3 Precinct 2,690,550,1289
+Peabody,3,3,Peabody Ward 3 Precinct 3,754,633,1437
+Peabody,4,1,Peabody Ward 4 Precinct 1,801,706,1569
+Peabody,4,2,Peabody Ward 4 Precinct 2,568,541,1144
+Peabody,4,3,Peabody Ward 4 Precinct 3,311,304,632
+Peabody,4,3A,Peabody Ward 4 Precinct 3A,1142,331,1519
+Peabody,5,1,Peabody Ward 5 Precinct 1,987,898,1939
+Peabody,5,2,Peabody Ward 5 Precinct 2,649,797,1479
+Peabody,5,3,Peabody Ward 5 Precinct 3,797,804,1648
+Peabody,6,1,Peabody Ward 6 Precinct 1,948,1101,2106
+Peabody,6,2,Peabody Ward 6 Precinct 2,799,1051,1889
+Peabody,6,3,Peabody Ward 6 Precinct 3,880,1193,2139
+Pelham,-,1,Pelham Precinct 1,743,88,861
+Pembroke,-,1,Pembroke Precinct 1,1199,1189,2478
+Pembroke,-,2,Pembroke Precinct 2,986,1131,2197
+Pembroke,-,3,Pembroke Precinct 3,1039,1216,2320
+Pembroke,-,3A,Pembroke Precinct 3A,14,4,18
+Pembroke,-,4,Pembroke Precinct 4,1100,1216,2407
+Pembroke,-,5,Pembroke Precinct 5,1082,1036,2184
+Pepperell,-,1,Pepperell Precinct 1,861,808,1736
+Pepperell,-,2,Pepperell Precinct 2,1052,933,2072
+Pepperell,-,3,Pepperell Precinct 3,933,901,1913
+Pepperell,-,4,Pepperell Precinct 4,883,715,1655
+Peru,-,1,Peru Precinct 1,256,244,528
+Petersham,-,1,Petersham Precinct 1,518,352,901
+Phillipston,-,1,Phillipston Precinct 1,438,697,1170
+Pittsfield,1,A,Pittsfield Ward 1 Precinct A,751,330,1112
+Pittsfield,1,B,Pittsfield Ward 1 Precinct B,1053,448,1550
+Pittsfield,2,A,Pittsfield Ward 2 Precinct A,571,243,841
+Pittsfield,2,B,Pittsfield Ward 2 Precinct B,1143,418,1605
+Pittsfield,3,A,Pittsfield Ward 3 Precinct A,1310,381,1747
+Pittsfield,3,B,Pittsfield Ward 3 Precinct B,1332,502,1888
+Pittsfield,4,A,Pittsfield Ward 4 Precinct A,1324,403,1796
+Pittsfield,4,B,Pittsfield Ward 4 Precinct B,1433,565,2049
+Pittsfield,5,A,Pittsfield Ward 5 Precinct A,1028,347,1427
+Pittsfield,5,B,Pittsfield Ward 5 Precinct B,1093,516,1656
+Pittsfield,6,A,Pittsfield Ward 6 Precinct A,1102,354,1507
+Pittsfield,6,B,Pittsfield Ward 6 Precinct B,763,286,1085
+Pittsfield,7,A,Pittsfield Ward 7 Precinct A,627,382,1042
+Pittsfield,7,B,Pittsfield Ward 7 Precinct B,1098,483,1641
+Plainfield,-,1,Plainfield Precinct 1,274,136,432
+Plainville,-,1,Plainville Precinct 1,852,811,1747
+Plainville,-,2,Plainville Precinct 2,962,878,1909
+Plainville,-,3,Plainville Precinct 3,968,944,2000
+Plymouth,-,1,Plymouth Precinct 1,916,668,1635
+Plymouth,-,10,Plymouth Precinct 10,1203,1095,2366
+Plymouth,-,11,Plymouth Precinct 11,1155,1120,2346
+Plymouth,-,12,Plymouth Precinct 12,918,1012,2001
+Plymouth,-,13,Plymouth Precinct 13,1242,1066,2383
+Plymouth,-,14,Plymouth Precinct 14,1091,1286,2457
+Plymouth,-,15,Plymouth Precinct 15,2204,1144,3465
+Plymouth,-,16,Plymouth Precinct 16,1488,980,2530
+Plymouth,-,17,Plymouth Precinct 17,1548,1263,2896
+Plymouth,-,18,Plymouth Precinct 18,761,749,1575
+Plymouth,-,2,Plymouth Precinct 2,1063,816,1946
+Plymouth,-,3,Plymouth Precinct 3,1184,746,2009
+Plymouth,-,4,Plymouth Precinct 4,1116,822,2018
+Plymouth,-,5,Plymouth Precinct 5,1062,893,2026
+Plymouth,-,6,Plymouth Precinct 6,1328,971,2383
+Plymouth,-,7,Plymouth Precinct 7,1180,999,2254
+Plymouth,-,8,Plymouth Precinct 8,1273,1120,2464
+Plymouth,-,9,Plymouth Precinct 9,926,1081,2081
+Plympton,-,1,Plympton Precinct 1,878,1061,2000
+Princeton,-,1,Princeton Precinct 1,1466,996,2559
+Provincetown,-,1,Provincetown Precinct 1,2429,191,2671
+Quincy,1,1,Quincy Ward 1 Precinct 1,756,425,1238
+Quincy,1,2,Quincy Ward 1 Precinct 2,636,439,1119
+Quincy,1,3,Quincy Ward 1 Precinct 3,947,330,1336
+Quincy,1,4,Quincy Ward 1 Precinct 4,1053,904,2028
+Quincy,1,5,Quincy Ward 1 Precinct 5,1065,938,2076
+Quincy,2,1,Quincy Ward 2 Precinct 1,660,399,1118
+Quincy,2,2,Quincy Ward 2 Precinct 2,749,407,1199
+Quincy,2,3,Quincy Ward 2 Precinct 3,533,299,868
+Quincy,2,4,Quincy Ward 2 Precinct 4,695,472,1218
+Quincy,2,5,Quincy Ward 2 Precinct 5,804,465,1330
+Quincy,3,1,Quincy Ward 3 Precinct 1,1119,574,1781
+Quincy,3,2,Quincy Ward 3 Precinct 2,894,435,1389
+Quincy,3,3,Quincy Ward 3 Precinct 3,695,457,1186
+Quincy,3,4,Quincy Ward 3 Precinct 4,952,692,1706
+Quincy,3,5,Quincy Ward 3 Precinct 5,734,382,1162
+Quincy,4,1,Quincy Ward 4 Precinct 1,893,469,1411
+Quincy,4,2,Quincy Ward 4 Precinct 2,939,642,1650
+Quincy,4,3,Quincy Ward 4 Precinct 3,1093,716,1886
+Quincy,4,4,Quincy Ward 4 Precinct 4,734,349,1126
+Quincy,4,5,Quincy Ward 4 Precinct 5,721,424,1192
+Quincy,5,1,Quincy Ward 5 Precinct 1,445,217,695
+Quincy,5,1A,Quincy Ward 5 Precinct 1A,289,160,471
+Quincy,5,2,Quincy Ward 5 Precinct 2,854,360,1254
+Quincy,5,3,Quincy Ward 5 Precinct 3,1208,520,1829
+Quincy,5,4,Quincy Ward 5 Precinct 4,746,401,1197
+Quincy,5,5,Quincy Ward 5 Precinct 5,956,582,1610
+Quincy,6,1,Quincy Ward 6 Precinct 1,808,473,1350
+Quincy,6,2,Quincy Ward 6 Precinct 2,798,388,1247
+Quincy,6,3,Quincy Ward 6 Precinct 3,975,595,1623
+Quincy,6,4,Quincy Ward 6 Precinct 4,723,379,1155
+Quincy,6,5,Quincy Ward 6 Precinct 5,1177,917,2175
+Randolph,-,1,Randolph Precinct 1,1188,336,1577
+Randolph,-,10,Randolph Precinct 10,1029,375,1444
+Randolph,-,11,Randolph Precinct 11,916,374,1330
+Randolph,-,12,Randolph Precinct 12,905,332,1270
+Randolph,-,2,Randolph Precinct 2,976,244,1266
+Randolph,-,3,Randolph Precinct 3,883,226,1147
+Randolph,-,4,Randolph Precinct 4,1067,338,1449
+Randolph,-,5,Randolph Precinct 5,1038,308,1387
+Randolph,-,6,Randolph Precinct 6,680,169,882
+Randolph,-,7,Randolph Precinct 7,847,330,1226
+Randolph,-,8,Randolph Precinct 8,901,304,1233
+Randolph,-,9,Randolph Precinct 9,980,252,1295
+Raynham,-,1,Raynham Precinct 1,1011,1164,2251
+Raynham,-,2,Raynham Precinct 2,608,667,1324
+Raynham,-,2A,Raynham Precinct 2A,362,489,886
+Raynham,-,3,Raynham Precinct 3,1132,1221,2439
+Raynham,-,4,Raynham Precinct 4,928,1110,2098
+Raynham,-,4A,Raynham Precinct 4A,18,43,61
+Reading,-,1,Reading Precinct 1,1361,809,2257
+Reading,-,2,Reading Precinct 2,1228,657,1948
+Reading,-,3,Reading Precinct 3,1274,786,2125
+Reading,-,4,Reading Precinct 4,1309,623,2009
+Reading,-,5,Reading Precinct 5,1316,612,2013
+Reading,-,6,Reading Precinct 6,1388,706,2171
+Reading,-,7,Reading Precinct 7,1377,663,2113
+Reading,-,8,Reading Precinct 8,1178,751,2014
+Rehoboth,-,1,Rehoboth Precinct 1,834,1159,2067
+Rehoboth,-,2,Rehoboth Precinct 2,888,1069,2000
+Rehoboth,-,3,Rehoboth Precinct 3,824,1078,1950
+Rehoboth,-,4,Rehoboth Precinct 4,909,1195,2162
+Revere,1,1,Revere Ward 1 Precinct 1,597,429,1081
+Revere,1,2,Revere Ward 1 Precinct 2,664,458,1177
+Revere,1,3,Revere Ward 1 Precinct 3,490,342,872
+Revere,2,1,Revere Ward 2 Precinct 1,433,274,749
+Revere,2,2,Revere Ward 2 Precinct 2,615,320,976
+Revere,2,3,Revere Ward 2 Precinct 3,191,116,323
+Revere,2,3A,Revere Ward 2 Precinct 3A,59,32,94
+Revere,3,1,Revere Ward 3 Precinct 1,443,433,910
+Revere,3,2,Revere Ward 3 Precinct 2,479,440,973
+Revere,3,3,Revere Ward 3 Precinct 3,494,404,938
+Revere,4,1,Revere Ward 4 Precinct 1,594,527,1168
+Revere,4,2,Revere Ward 4 Precinct 2,466,421,924
+Revere,4,3,Revere Ward 4 Precinct 3,571,528,1136
+Revere,5,1,Revere Ward 5 Precinct 1,498,417,950
+Revere,5,1A,Revere Ward 5 Precinct 1A,374,247,643
+Revere,5,2,Revere Ward 5 Precinct 2,644,427,1131
+Revere,5,3,Revere Ward 5 Precinct 3,504,423,975
+Revere,6,1,Revere Ward 6 Precinct 1,541,718,1294
+Revere,6,2,Revere Ward 6 Precinct 2,524,712,1283
+Revere,6,3,Revere Ward 6 Precinct 3,530,434,996
+Richmond,-,1,Richmond Precinct 1,772,213,1019
+Rochester,-,1,Rochester Precinct 1,1665,2225,4033
+Rockland,-,1,Rockland Precinct 1,912,794,1767
+Rockland,-,2,Rockland Precinct 2,875,893,1833
+Rockland,-,3,Rockland Precinct 3,717,609,1374
+Rockland,-,4,Rockland Precinct 4,672,726,1439
+Rockland,-,5,Rockland Precinct 5,728,850,1631
+Rockland,-,6,Rockland Precinct 6,822,857,1733
+Rockport,-,1,Rockport Precinct 1,914,334,1296
+Rockport,-,2,Rockport Precinct 2,1266,468,1788
+Rockport,-,3,Rockport Precinct 3,1545,530,2148
+Rowe,-,1,Rowe Precinct 1,139,121,265
+Rowley,-,1,Rowley Precinct 1,2063,1919,4120
+Royalston,-,1,Royalston Precinct 1,392,391,814
+Russell,-,1,Russell Precinct 1,350,524,911
+Rutland,-,1,Rutland Precinct 1,878,1122,2073
+Rutland,-,2,Rutland Precinct 2,793,940,1797
+Rutland,-,3,Rutland Precinct 3,1065,973,2099
+S. Hadley,-,A,S. Hadley Precinct A,1193,683,1935
+S. Hadley,-,B,S. Hadley Precinct B,1416,696,2200
+S. Hadley,-,C,S. Hadley Precinct C,1351,883,2316
+S. Hadley,-,D,S. Hadley Precinct D,910,322,1294
+S. Hadley,-,E,S. Hadley Precinct E,1367,806,2258
+Salem,1,1,Salem Ward 1 Precinct 1,1476,425,1986
+Salem,1,2,Salem Ward 1 Precinct 2,617,236,896
+Salem,2,1,Salem Ward 2 Precinct 1,1497,333,1907
+Salem,2,2,Salem Ward 2 Precinct 2,1700,316,2073
+Salem,3,1,Salem Ward 3 Precinct 1,1060,430,1548
+Salem,3,2,Salem Ward 3 Precinct 2,1053,546,1659
+Salem,4,1,Salem Ward 4 Precinct 1,950,560,1564
+Salem,4,2,Salem Ward 4 Precinct 2,1047,685,1809
+Salem,5,1,Salem Ward 5 Precinct 1,1345,385,1807
+Salem,5,2,Salem Ward 5 Precinct 2,1116,321,1519
+Salem,6,1,Salem Ward 6 Precinct 1,1212,403,1671
+Salem,6,2,Salem Ward 6 Precinct 2,1357,474,1897
+Salem,7,1,Salem Ward 7 Precinct 1,931,336,1312
+Salem,7,2,Salem Ward 7 Precinct 2,1175,517,1756
+Salisbury,-,1,Salisbury Precinct 1,995,851,1908
+Salisbury,-,2,Salisbury Precinct 2,913,868,1827
+Salisbury,-,3,Salisbury Precinct 3,749,1008,1822
+Sandisfield,-,1,Sandisfield Precinct 1,280,212,507
+Sandwich,-,1,Sandwich Precinct 1,1455,978,2516
+Sandwich,-,2,Sandwich Precinct 2,1360,952,2373
+Sandwich,-,3,Sandwich Precinct 3,1190,994,2259
+Sandwich,-,4,Sandwich Precinct 4,1167,1101,2337
+Sandwich,-,5,Sandwich Precinct 5,1082,990,2141
+Sandwich,-,6,Sandwich Precinct 6,1002,1064,2144
+Saugus,-,1,Saugus Precinct 1,653,713,1405
+Saugus,-,10,Saugus Precinct 10,558,734,1329
+Saugus,-,2,Saugus Precinct 2,680,696,1408
+Saugus,-,3,Saugus Precinct 3,665,774,1484
+Saugus,-,4,Saugus Precinct 4,715,803,1564
+Saugus,-,5,Saugus Precinct 5,698,958,1708
+Saugus,-,6,Saugus Precinct 6,648,756,1468
+Saugus,-,7,Saugus Precinct 7,620,942,1609
+Saugus,-,8,Saugus Precinct 8,676,801,1517
+Saugus,-,9,Saugus Precinct 9,704,935,1682
+Savoy,-,1,Savoy Precinct 1,213,211,437
+Scituate,-,1,Scituate Precinct 1,1333,829,2253
+Scituate,-,2,Scituate Precinct 2,1390,778,2256
+Scituate,-,3,Scituate Precinct 3,1347,755,2193
+Scituate,-,4,Scituate Precinct 4,1372,912,2368
+Scituate,-,5,Scituate Precinct 5,1346,719,2139
+Scituate,-,6,Scituate Precinct 6,1441,843,2366
+Seekonk,-,1,Seekonk Precinct 1,1042,1128,2240
+Seekonk,-,2,Seekonk Precinct 2,1293,1181,2569
+Seekonk,-,3,Seekonk Precinct 3,1015,1094,2166
+Seekonk,-,4,Seekonk Precinct 4,1042,1080,2196
+Sharon,-,1,Sharon Precinct 1,1543,544,2197
+Sharon,-,2,Sharon Precinct 2,1468,507,2096
+Sharon,-,3,Sharon Precinct 3,1561,554,2243
+Sharon,-,4,Sharon Precinct 4,1533,508,2180
+Sharon,-,5,Sharon Precinct 5,1470,618,2190
+Sheffield,-,1,Sheffield Precinct 1,1373,572,2039
+Shelburne,-,1,Shelburne Precinct 1,914,261,1236
+Sherborn,-,1,Sherborn Precinct 1,2089,566,2806
+Shirley,-,1,Shirley Precinct 1,2030,1536,3704
+Shrewsbury,-,1,Shrewsbury Precinct 1,1325,920,2337
+Shrewsbury,-,10,Shrewsbury Precinct 10,1139,681,1946
+Shrewsbury,-,2,Shrewsbury Precinct 2,1128,778,1983
+Shrewsbury,-,3,Shrewsbury Precinct 3,861,657,1596
+Shrewsbury,-,4,Shrewsbury Precinct 4,1233,853,2203
+Shrewsbury,-,5,Shrewsbury Precinct 5,1187,611,1881
+Shrewsbury,-,6,Shrewsbury Precinct 6,1221,723,2055
+Shrewsbury,-,7,Shrewsbury Precinct 7,1384,755,2279
+Shrewsbury,-,8,Shrewsbury Precinct 8,1461,896,2480
+Shrewsbury,-,9,Shrewsbury Precinct 9,913,504,1488
+Shutesbury,-,1,Shutesbury Precinct 1,1030,169,1264
+Somerset,-,1,Somerset Precinct 1,1111,1174,2330
+Somerset,-,2,Somerset Precinct 2,1061,1166,2298
+Somerset,-,3,Somerset Precinct 3,1109,1082,2257
+Somerset,-,4,Somerset Precinct 4,977,1070,2110
+Somerset,-,5,Somerset Precinct 5,941,1137,2136
+Somerville,1,1,Somerville Ward 1 Precinct 1,959,240,1268
+Somerville,1,2,Somerville Ward 1 Precinct 2,787,198,1032
+Somerville,1,3,Somerville Ward 1 Precinct 3,1003,228,1290
+Somerville,1,4,Somerville Ward 1 Precinct 4,568,123,720
+Somerville,1,4A,Somerville Ward 1 Precinct 4A,283,70,378
+Somerville,2,1,Somerville Ward 2 Precinct 1,774,93,933
+Somerville,2,1A,Somerville Ward 2 Precinct 1A,493,32,563
+Somerville,2,2,Somerville Ward 2 Precinct 2,1235,109,1449
+Somerville,2,3,Somerville Ward 2 Precinct 3,1243,112,1459
+Somerville,2,4,Somerville Ward 2 Precinct 4,1318,114,1528
+Somerville,3,1,Somerville Ward 3 Precinct 1,1339,156,1578
+Somerville,3,2,Somerville Ward 3 Precinct 2,1197,185,1470
+Somerville,3,3,Somerville Ward 3 Precinct 3,1371,147,1615
+Somerville,3,4,Somerville Ward 3 Precinct 4,1365,118,1563
+Somerville,4,1,Somerville Ward 4 Precinct 1,865,301,1224
+Somerville,4,2,Somerville Ward 4 Precinct 2,729,116,897
+Somerville,4,2A,Somerville Ward 4 Precinct 2A,280,61,360
+Somerville,4,3,Somerville Ward 4 Precinct 3,1210,201,1501
+Somerville,4,4,Somerville Ward 4 Precinct 4,768,190,1001
+Somerville,5,1,Somerville Ward 5 Precinct 1,1295,214,1583
+Somerville,5,2,Somerville Ward 5 Precinct 2,1382,147,1617
+Somerville,5,3,Somerville Ward 5 Precinct 3,1363,160,1599
+Somerville,5,4,Somerville Ward 5 Precinct 4,1506,125,1732
+Somerville,6,1,Somerville Ward 6 Precinct 1,1589,112,1797
+Somerville,6,2,Somerville Ward 6 Precinct 2,1621,126,1872
+Somerville,6,3,Somerville Ward 6 Precinct 3,234,29,277
+Somerville,6,3A,Somerville Ward 6 Precinct 3A,205,40,264
+Somerville,6,4,Somerville Ward 6 Precinct 4,1542,129,1751
+Somerville,7,1,Somerville Ward 7 Precinct 1,1556,118,1764
+Somerville,7,2,Somerville Ward 7 Precinct 2,1057,163,1300
+Somerville,7,3,Somerville Ward 7 Precinct 3,937,217,1216
+Somerville,7,4,Somerville Ward 7 Precinct 4,1144,138,1363
+Southampton,-,1,Southampton Precinct 1,1056,882,2005
+Southampton,-,2,Southampton Precinct 2,1064,944,2083
+Southborough,-,1,Southborough Precinct 1,1435,575,2109
+Southborough,-,2,Southborough Precinct 2,1340,630,2049
+Southborough,-,3,Southborough Precinct 3,1360,613,2088
+Southbridge,-,1,Southbridge Precinct 1,723,655,1424
+Southbridge,-,2,Southbridge Precinct 2,555,522,1114
+Southbridge,-,3,Southbridge Precinct 3,655,806,1507
+Southbridge,-,4,Southbridge Precinct 4,1016,917,2009
+Southbridge,-,5,Southbridge Precinct 5,552,430,1020
+Southwick,-,1,Southwick Precinct 1,814,1366,2250
+Southwick,-,2,Southwick Precinct 2,648,981,1678
+Southwick,-,3,Southwick Precinct 3,827,1083,1954
+Spencer,-,1,Spencer Precinct 1,716,827,1590
+Spencer,-,2,Spencer Precinct 2,633,747,1415
+Spencer,-,3,Spencer Precinct 3,657,1028,1730
+Spencer,-,4,Spencer Precinct 4,785,875,1716
+Springfield,1,A,Springfield Ward 1 Precinct A,327,172,525
+Springfield,1,B,Springfield Ward 1 Precinct B,417,174,613
+Springfield,1,C,Springfield Ward 1 Precinct C,279,105,399
+Springfield,1,C1,Springfield Ward 1 Precinct C1,50,12,62
+Springfield,1,D,Springfield Ward 1 Precinct D,263,91,388
+Springfield,1,D1,Springfield Ward 1 Precinct D1,64,25,91
+Springfield,1,E,Springfield Ward 1 Precinct E,353,179,549
+Springfield,1,F,Springfield Ward 1 Precinct F,364,158,545
+Springfield,1,G,Springfield Ward 1 Precinct G,290,103,406
+Springfield,1,H,Springfield Ward 1 Precinct H,605,185,812
+Springfield,2,A,Springfield Ward 2 Precinct A,438,202,659
+Springfield,2,B,Springfield Ward 2 Precinct B,612,362,1015
+Springfield,2,C,Springfield Ward 2 Precinct C,388,266,682
+Springfield,2,D,Springfield Ward 2 Precinct D,594,313,943
+Springfield,2,E,Springfield Ward 2 Precinct E,551,308,886
+Springfield,2,F,Springfield Ward 2 Precinct F,541,309,895
+Springfield,2,G,Springfield Ward 2 Precinct G,616,367,1020
+Springfield,2,H,Springfield Ward 2 Precinct H,623,339,989
+Springfield,3,A,Springfield Ward 3 Precinct A,317,95,422
+Springfield,3,B,Springfield Ward 3 Precinct B,331,120,470
+Springfield,3,C,Springfield Ward 3 Precinct C,295,123,429
+Springfield,3,D,Springfield Ward 3 Precinct D,408,150,573
+Springfield,3,E,Springfield Ward 3 Precinct E,239,74,324
+Springfield,3,F,Springfield Ward 3 Precinct F,319,137,475
+Springfield,3,G,Springfield Ward 3 Precinct G,258,117,389
+Springfield,3,H,Springfield Ward 3 Precinct H,341,164,514
+Springfield,4,A,Springfield Ward 4 Precinct A,683,155,881
+Springfield,4,B,Springfield Ward 4 Precinct B,421,126,569
+Springfield,4,C,Springfield Ward 4 Precinct C,439,110,557
+Springfield,4,D,Springfield Ward 4 Precinct D,432,107,563
+Springfield,4,E,Springfield Ward 4 Precinct E,416,98,528
+Springfield,4,F,Springfield Ward 4 Precinct F,131,26,161
+Springfield,4,G,Springfield Ward 4 Precinct G,508,121,649
+Springfield,4,H,Springfield Ward 4 Precinct H,518,86,625
+Springfield,5,A,Springfield Ward 5 Precinct A,611,159,796
+Springfield,5,B,Springfield Ward 5 Precinct B,701,278,1003
+Springfield,5,C,Springfield Ward 5 Precinct C,526,307,856
+Springfield,5,C1,Springfield Ward 5 Precinct C1,8,9,17
+Springfield,5,D,Springfield Ward 5 Precinct D,746,441,1231
+Springfield,5,E,Springfield Ward 5 Precinct E,813,278,1141
+Springfield,5,F,Springfield Ward 5 Precinct F,750,305,1087
+Springfield,5,G,Springfield Ward 5 Precinct G,748,493,1267
+Springfield,5,H,Springfield Ward 5 Precinct H,639,343,1014
+Springfield,6,A,Springfield Ward 6 Precinct A,427,188,629
+Springfield,6,B,Springfield Ward 6 Precinct B,685,216,941
+Springfield,6,C,Springfield Ward 6 Precinct C,500,320,858
+Springfield,6,D,Springfield Ward 6 Precinct D,705,488,1235
+Springfield,6,D1,Springfield Ward 6 Precinct D1,27,16,44
+Springfield,6,E,Springfield Ward 6 Precinct E,386,220,623
+Springfield,6,F,Springfield Ward 6 Precinct F,502,188,709
+Springfield,6,G,Springfield Ward 6 Precinct G,525,262,808
+Springfield,6,H,Springfield Ward 6 Precinct H,686,403,1120
+Springfield,7,A,Springfield Ward 7 Precinct A,732,384,1193
+Springfield,7,A1,Springfield Ward 7 Precinct A1,43,9,56
+Springfield,7,B,Springfield Ward 7 Precinct B,799,466,1336
+Springfield,7,B1,Springfield Ward 7 Precinct B1,27,15,42
+Springfield,7,C,Springfield Ward 7 Precinct C,764,538,1350
+Springfield,7,D,Springfield Ward 7 Precinct D,659,476,1172
+Springfield,7,E,Springfield Ward 7 Precinct E,522,265,805
+Springfield,7,F,Springfield Ward 7 Precinct F,869,480,1391
+Springfield,7,G,Springfield Ward 7 Precinct G,788,595,1423
+Springfield,7,H,Springfield Ward 7 Precinct H,359,214,593
+Springfield,7,H1,Springfield Ward 7 Precinct H1,58,56,115
+Springfield,8,A,Springfield Ward 8 Precinct A,562,366,956
+Springfield,8,B,Springfield Ward 8 Precinct B,579,302,915
+Springfield,8,B1,Springfield Ward 8 Precinct B1,29,30,60
+Springfield,8,C,Springfield Ward 8 Precinct C,627,283,947
+Springfield,8,D,Springfield Ward 8 Precinct D,429,208,655
+Springfield,8,E,Springfield Ward 8 Precinct E,376,249,644
+Springfield,8,F,Springfield Ward 8 Precinct F,577,342,956
+Springfield,8,G,Springfield Ward 8 Precinct G,536,311,876
+Springfield,8,G1,Springfield Ward 8 Precinct G1,12,16,29
+Springfield,8,H,Springfield Ward 8 Precinct H,566,276,869
+Sterling,-,1,Sterling Precinct 1,1394,1244,2738
+Sterling,-,2,Sterling Precinct 2,1438,1297,2850
+Stockbridge,-,1,Stockbridge Precinct 1,1073,213,1319
+Stoneham,-,1,Stoneham Precinct 1,1050,716,1825
+Stoneham,-,2,Stoneham Precinct 2,1180,702,1946
+Stoneham,-,3,Stoneham Precinct 3,1118,914,2111
+Stoneham,-,4,Stoneham Precinct 4,1001,768,1830
+Stoneham,-,5,Stoneham Precinct 5,1071,916,2057
+Stoneham,-,6,Stoneham Precinct 6,1274,798,2159
+Stoneham,-,7,Stoneham Precinct 7,956,746,1757
+Stoughton,-,1,Stoughton Precinct 1,1155,595,1789
+Stoughton,-,2,Stoughton Precinct 2,989,591,1629
+Stoughton,-,2A,Stoughton Precinct 2A,151,74,229
+Stoughton,-,3,Stoughton Precinct 3,1302,708,2073
+Stoughton,-,4,Stoughton Precinct 4,1255,848,2167
+Stoughton,-,4A,Stoughton Precinct 4A,115,56,181
+Stoughton,-,5,Stoughton Precinct 5,835,619,1485
+Stoughton,-,5A,Stoughton Precinct 5A,73,55,135
+Stoughton,-,6,Stoughton Precinct 6,1231,663,1953
+Stoughton,-,7,Stoughton Precinct 7,1090,582,1736
+Stoughton,-,7A,Stoughton Precinct 7A,66,31,101
+Stoughton,-,8,Stoughton Precinct 8,797,457,1305
+Stoughton,-,8A,Stoughton Precinct 8A,47,40,88
+Stow,-,1,Stow Precinct 1,1739,632,2481
+Stow,-,2,Stow Precinct 2,1695,536,2325
+Sturbridge,-,1,Sturbridge Precinct 1,1066,900,2037
+Sturbridge,-,2,Sturbridge Precinct 2,1107,907,2084
+Sturbridge,-,3,Sturbridge Precinct 3,964,902,1925
+Sudbury,-,1,Sudbury Precinct 1,1536,478,2105
+Sudbury,-,2,Sudbury Precinct 2,1492,409,1991
+Sudbury,-,3,Sudbury Precinct 3,1320,412,1799
+Sudbury,-,4,Sudbury Precinct 4,1602,425,2122
+Sudbury,-,5,Sudbury Precinct 5,1352,476,1926
+Sudbury,-,6,Sudbury Precinct 6,1466,456,2000
+Sunderland,-,1,Sunderland Precinct 1,1408,397,1895
+Sutton,-,1,Sutton Precinct 1,983,1093,2149
+Sutton,-,2,Sutton Precinct 2,903,1151,2113
+Sutton,-,3,Sutton Precinct 3,996,1014,2105
+Swampscott,-,1,Swampscott Precinct 1,928,517,1486
+Swampscott,-,2,Swampscott Precinct 2,855,488,1413
+Swampscott,-,3,Swampscott Precinct 3,1095,338,1495
+Swampscott,-,4,Swampscott Precinct 4,1139,432,1637
+Swampscott,-,5,Swampscott Precinct 5,1122,476,1658
+Swampscott,-,6,Swampscott Precinct 6,1080,438,1576
+Swansea,-,1,Swansea Precinct 1,760,1237,2036
+Swansea,-,2,Swansea Precinct 2,963,985,2011
+Swansea,-,3,Swansea Precinct 3,913,1114,2075
+Swansea,-,4,Swansea Precinct 4,898,1139,2086
+Swansea,-,5,Swansea Precinct 5,868,1260,2180
+Taunton,1,A,Taunton Ward 1 Precinct A,820,659,1525
+Taunton,1,A1,Taunton Ward 1 Precinct A1,52,25,82
+Taunton,1,B,Taunton Ward 1 Precinct B,931,1029,2027
+Taunton,2,A,Taunton Ward 2 Precinct A,550,412,994
+Taunton,2,B,Taunton Ward 2 Precinct B,736,591,1361
+Taunton,3,A,Taunton Ward 3 Precinct A,774,670,1486
+Taunton,3,B,Taunton Ward 3 Precinct B,962,937,1962
+Taunton,4,A,Taunton Ward 4 Precinct A,799,1007,1874
+Taunton,4,B,Taunton Ward 4 Precinct B,949,837,1835
+Taunton,4,B1,Taunton Ward 4 Precinct B1,12,24,37
+Taunton,5,A,Taunton Ward 5 Precinct A,690,621,1359
+Taunton,5,B,Taunton Ward 5 Precinct B,749,522,1330
+Taunton,6,A,Taunton Ward 6 Precinct A,675,587,1297
+Taunton,6,B,Taunton Ward 6 Precinct B,828,756,1638
+Taunton,7,A,Taunton Ward 7 Precinct A,915,919,1905
+Taunton,7,B,Taunton Ward 7 Precinct B,978,1192,2247
+Taunton,8,A,Taunton Ward 8 Precinct A,1120,1028,2208
+Taunton,8,B,Taunton Ward 8 Precinct B,1042,1021,2130
+Templeton,-,A,Templeton Precinct A,720,982,1763
+Templeton,-,B,Templeton Precinct B,591,864,1507
+Templeton,-,C,Templeton Precinct C,572,737,1369
+Tewksbury,-,1,Tewksbury Precinct 1,1010,971,2044
+Tewksbury,-,2,Tewksbury Precinct 2,1176,1207,2458
+Tewksbury,-,3,Tewksbury Precinct 3,1069,1166,2317
+Tewksbury,-,4,Tewksbury Precinct 4,1098,1042,2214
+Tewksbury,-,5,Tewksbury Precinct 5,1046,1021,2131
+Tewksbury,-,5A,Tewksbury Precinct 5A,198,136,343
+Tewksbury,-,6,Tewksbury Precinct 6,1006,1232,2303
+Tewksbury,-,7,Tewksbury Precinct 7,1255,1249,2591
+Tewksbury,-,8,Tewksbury Precinct 8,1144,1137,2360
+Tisbury,-,1,Tisbury Precinct 1,2031,548,2700
+Tolland,-,1,Tolland Precinct 1,148,175,331
+Topsfield,-,1,Topsfield Precinct 1,1283,899,2262
+Topsfield,-,2,Topsfield Precinct 2,1197,786,2066
+Townsend,-,1,Townsend Precinct 1,825,982,1870
+Townsend,-,2,Townsend Precinct 2,851,957,1865
+Townsend,-,3,Townsend Precinct 3,881,907,1855
+Truro,-,1,Truro Precinct 1,1434,358,1840
+Tyngsborough,-,1,Tyngsborough Precinct 1,895,917,1886
+Tyngsborough,-,2,Tyngsborough Precinct 2,889,897,1838
+Tyngsborough,-,3,Tyngsborough Precinct 3,870,823,1748
+Tyngsborough,-,4,Tyngsborough Precinct 4,1113,938,2120
+Tyringham,-,1,Tyringham Precinct 1,224,81,326
+Upton,-,1,Upton Precinct 1,1134,657,1870
+Upton,-,2,Upton Precinct 2,1038,821,1921
+Upton,-,3,Upton Precinct 3,914,714,1688
+Uxbridge,-,1,Uxbridge Precinct 1,998,1216,2288
+Uxbridge,-,1A,Uxbridge Precinct 1A,80,43,124
+Uxbridge,-,2,Uxbridge Precinct 2,949,948,1961
+Uxbridge,-,3,Uxbridge Precinct 3,1019,1219,2300
+Uxbridge,-,4,Uxbridge Precinct 4,1126,1159,2365
+W. Boylston,-,1,W. Boylston Precinct 1,1182,803,2073
+W. Boylston,-,2,W. Boylston Precinct 2,1461,1029,2610
+W. Bridgewater,-,1,W. Bridgewater Precinct 1,1031,1224,2321
+W. Bridgewater,-,2,W. Bridgewater Precinct 2,989,1241,2312
+W. Brookfield,-,1,W. Brookfield Precinct 1,1126,1170,2362
+W. Newbury,-,1,W. Newbury Precinct 1,2068,1092,3299
+W. Springfield,-,1,W. Springfield Precinct 1,377,373,773
+W. Springfield,-,2,W. Springfield Precinct 2,531,480,1055
+W. Springfield,-,3,W. Springfield Precinct 3,738,663,1449
+W. Springfield,-,4,W. Springfield Precinct 4,875,701,1633
+W. Springfield,-,5,W. Springfield Precinct 5,1044,1099,2216
+W. Springfield,-,6,W. Springfield Precinct 6,935,1056,2055
+W. Springfield,-,7,W. Springfield Precinct 7,928,1107,2118
+W. Springfield,-,8,W. Springfield Precinct 8,809,707,1582
+W. Stockbridge,-,1,W. Stockbridge Precinct 1,730,167,941
+W. Tisbury,-,1,W. Tisbury Precinct 1,1757,367,2205
+Wakefield,-,1,Wakefield Precinct 1,1153,1025,2264
+Wakefield,-,2,Wakefield Precinct 2,1293,857,2222
+Wakefield,-,3,Wakefield Precinct 3,1379,949,2410
+Wakefield,-,4,Wakefield Precinct 4,1455,839,2365
+Wakefield,-,5,Wakefield Precinct 5,1484,874,2468
+Wakefield,-,6,Wakefield Precinct 6,1494,794,2394
+Wakefield,-,7,Wakefield Precinct 7,1327,932,2355
+Wales,-,1,Wales Precinct 1,434,673,1142
+Walpole,-,1,Walpole Precinct 1,1077,711,1866
+Walpole,-,2,Walpole Precinct 2,1068,971,2111
+Walpole,-,2A,Walpole Precinct 2A,18,21,40
+Walpole,-,3,Walpole Precinct 3,1365,950,2409
+Walpole,-,4,Walpole Precinct 4,924,641,1644
+Walpole,-,5,Walpole Precinct 5,858,762,1686
+Walpole,-,5A,Walpole Precinct 5A,25,20,47
+Walpole,-,6,Walpole Precinct 6,1197,793,2076
+Walpole,-,7,Walpole Precinct 7,1092,864,2056
+Walpole,-,8,Walpole Precinct 8,1068,901,2067
+Waltham,1,1,Waltham Ward 1 Precinct 1,1370,596,2049
+Waltham,1,2,Waltham Ward 1 Precinct 2,1164,748,1988
+Waltham,1,2A,Waltham Ward 1 Precinct 2A,4,11,16
+Waltham,2,1,Waltham Ward 2 Precinct 1,1259,600,1926
+Waltham,2,2,Waltham Ward 2 Precinct 2,994,350,1388
+Waltham,3,1,Waltham Ward 3 Precinct 1,1129,885,2087
+Waltham,3,2,Waltham Ward 3 Precinct 2,1230,641,1945
+Waltham,3,2A,Waltham Ward 3 Precinct 2A,20,15,36
+Waltham,4,1,Waltham Ward 4 Precinct 1,1242,679,2007
+Waltham,4,1A,Waltham Ward 4 Precinct 1A,25,6,33
+Waltham,4,2,Waltham Ward 4 Precinct 2,237,107,364
+Waltham,5,1,Waltham Ward 5 Precinct 1,983,483,1532
+Waltham,5,2,Waltham Ward 5 Precinct 2,712,212,982
+Waltham,5,2A,Waltham Ward 5 Precinct 2A,138,28,170
+Waltham,6,1,Waltham Ward 6 Precinct 1,1091,340,1507
+Waltham,6,2,Waltham Ward 6 Precinct 2,678,247,963
+Waltham,6,2A,Waltham Ward 6 Precinct 2A,133,64,210
+Waltham,7,1,Waltham Ward 7 Precinct 1,1256,488,1798
+Waltham,7,2,Waltham Ward 7 Precinct 2,467,128,614
+Waltham,8,1,Waltham Ward 8 Precinct 1,1102,310,1466
+Waltham,8,2,Waltham Ward 8 Precinct 2,1068,367,1499
+Waltham,8,2A,Waltham Ward 8 Precinct 2A,14,2,17
+Waltham,9,1,Waltham Ward 9 Precinct 1,958,246,1272
+Waltham,9,2,Waltham Ward 9 Precinct 2,774,271,1086
+Ware,-,A,Ware Precinct A,702,674,1429
+Ware,-,B,Ware Precinct B,702,902,1653
+Ware,-,C,Ware Precinct C,894,1096,2047
+Wareham,-,1,Wareham Precinct 1,1073,998,2121
+Wareham,-,2,Wareham Precinct 2,1215,1053,2332
+Wareham,-,3,Wareham Precinct 3,1189,974,2232
+Wareham,-,4,Wareham Precinct 4,1063,1045,2179
+Wareham,-,5,Wareham Precinct 5,1085,1212,2354
+Wareham,-,6,Wareham Precinct 6,910,1037,2011
+Warren,-,A,Warren Precinct A,809,1139,2019
+Warren,-,B,Warren Precinct B,263,370,661
+Warwick,-,1,Warwick Precinct 1,309,174,511
+Washington,-,1,Washington Precinct 1,218,129,360
+Watertown,-,1,Watertown Precinct 1,941,297,1316
+Watertown,-,10,Watertown Precinct 10,1204,402,1665
+Watertown,-,11,Watertown Precinct 11,1081,458,1625
+Watertown,-,12,Watertown Precinct 12,1004,435,1508
+Watertown,-,2,Watertown Precinct 2,1128,294,1495
+Watertown,-,3,Watertown Precinct 3,1227,254,1571
+Watertown,-,4,Watertown Precinct 4,1476,283,1827
+Watertown,-,5,Watertown Precinct 5,984,252,1300
+Watertown,-,6,Watertown Precinct 6,1053,211,1349
+Watertown,-,7,Watertown Precinct 7,1275,385,1740
+Watertown,-,8,Watertown Precinct 8,1206,322,1600
+Watertown,-,9,Watertown Precinct 9,960,271,1292
+Wayland,-,1,Wayland Precinct 1,1873,437,2420
+Wayland,-,2,Wayland Precinct 2,1568,436,2118
+Wayland,-,3,Wayland Precinct 3,1552,391,2033
+Wayland,-,4,Wayland Precinct 4,1794,454,2363
+Webster,-,1,Webster Precinct 1,431,483,936
+Webster,-,1A,Webster Precinct 1A,216,260,487
+Webster,-,2,Webster Precinct 2,518,515,1069
+Webster,-,3,Webster Precinct 3,654,822,1515
+Webster,-,4,Webster Precinct 4,1010,1318,2395
+Webster,-,5,Webster Precinct 5,842,921,1811
+Wellesley,-,A,Wellesley Precinct A,1523,459,2084
+Wellesley,-,B,Wellesley Precinct B,1711,490,2309
+Wellesley,-,C,Wellesley Precinct C,1468,677,2288
+Wellesley,-,D,Wellesley Precinct D,1661,417,2195
+Wellesley,-,E,Wellesley Precinct E,1581,436,2112
+Wellesley,-,F,Wellesley Precinct F,980,262,1330
+Wellesley,-,G,Wellesley Precinct G,871,176,1078
+Wellesley,-,H,Wellesley Precinct H,1547,492,2134
+Wellfleet,-,1,Wellfleet Precinct 1,1890,525,2517
+Wendell,-,1,Wendell Precinct 1,439,125,605
+Wenham,-,1,Wenham Precinct 1,613,287,947
+Wenham,-,1A,Wenham Precinct 1A,1105,495,1681
+Westborough,-,1,Westborough Precinct 1,1010,347,1411
+Westborough,-,2,Westborough Precinct 2,905,381,1362
+Westborough,-,3,Westborough Precinct 3,1043,459,1559
+Westborough,-,4,Westborough Precinct 4,960,472,1488
+Westborough,-,5,Westborough Precinct 5,1530,615,2273
+Westborough,-,6,Westborough Precinct 6,1590,664,2370
+Westfield,1,A,Westfield Ward 1 Precinct A,996,1105,2142
+Westfield,1,B,Westfield Ward 1 Precinct B,829,997,1883
+Westfield,2,A,Westfield Ward 2 Precinct A,538,451,1040
+Westfield,2,A1,Westfield Ward 2 Precinct A1,41,29,70
+Westfield,2,B,Westfield Ward 2 Precinct B,738,654,1443
+Westfield,3,A,Westfield Ward 3 Precinct A,590,548,1191
+Westfield,3,B,Westfield Ward 3 Precinct B,902,790,1758
+Westfield,4,A,Westfield Ward 4 Precinct A,356,429,809
+Westfield,4,B,Westfield Ward 4 Precinct B,1012,1065,2138
+Westfield,5,A,Westfield Ward 5 Precinct A,1003,1118,2208
+Westfield,5,B,Westfield Ward 5 Precinct B,890,1159,2136
+Westfield,6,A,Westfield Ward 6 Precinct A,816,1016,1888
+Westfield,6,B,Westfield Ward 6 Precinct B,671,774,1508
+Westfield,6,B1,Westfield Ward 6 Precinct B1,25,54,82
+Westford,-,1,Westford Precinct 1,1207,648,1928
+Westford,-,2,Westford Precinct 2,1244,679,2009
+Westford,-,3,Westford Precinct 3,1469,726,2306
+Westford,-,4,Westford Precinct 4,1351,583,2021
+Westford,-,5,Westford Precinct 5,1346,647,2079
+Westford,-,6,Westford Precinct 6,1368,803,2270
+Westford,-,7,Westford Precinct 7,1558,665,2324
+Westhampton,-,1,Westhampton Precinct 1,762,434,1248
+Westminster,-,1,Westminster Precinct 1,846,927,1828
+Westminster,-,2,Westminster Precinct 2,649,695,1402
+Westminster,-,2A,Westminster Precinct 2A,229,239,482
+Westminster,-,3,Westminster Precinct 3,864,779,1697
+Weston,-,1,Weston Precinct 1,1329,454,1871
+Weston,-,2,Weston Precinct 2,1108,426,1648
+Weston,-,3,Weston Precinct 3,985,398,1474
+Weston,-,4,Weston Precinct 4,1062,479,1640
+Westport,-,A,Westport Precinct A,852,1125,2020
+Westport,-,B,Westport Precinct B,1211,1091,2376
+Westport,-,C,Westport Precinct C,766,1199,2012
+Westport,-,D,Westport Precinct D,902,1084,2036
+Westport,-,E,Westport Precinct E,1224,1164,2465
+Westwood,-,1,Westwood Precinct 1,1345,625,2072
+Westwood,-,2,Westwood Precinct 2,1304,739,2128
+Westwood,-,3,Westwood Precinct 3,1187,628,1915
+Westwood,-,4,Westwood Precinct 4,1000,807,1906
+Westwood,-,5,Westwood Precinct 5,1367,692,2185
+Weymouth,-,1,Weymouth Precinct 1,938,771,1781
+Weymouth,-,10,Weymouth Precinct 10,815,621,1486
+Weymouth,-,11,Weymouth Precinct 11,819,594,1474
+Weymouth,-,12,Weymouth Precinct 12,1047,883,2002
+Weymouth,-,13,Weymouth Precinct 13,716,463,1213
+Weymouth,-,14,Weymouth Precinct 14,1168,829,2074
+Weymouth,-,15,Weymouth Precinct 15,995,901,1967
+Weymouth,-,16,Weymouth Precinct 16,1205,966,2267
+Weymouth,-,17,Weymouth Precinct 17,827,611,1496
+Weymouth,-,18,Weymouth Precinct 18,983,523,1565
+Weymouth,-,2,Weymouth Precinct 2,1116,859,2038
+Weymouth,-,3,Weymouth Precinct 3,1006,946,2029
+Weymouth,-,4,Weymouth Precinct 4,920,699,1694
+Weymouth,-,5,Weymouth Precinct 5,1010,620,1697
+Weymouth,-,6,Weymouth Precinct 6,1136,824,2035
+Weymouth,-,7,Weymouth Precinct 7,798,692,1540
+Weymouth,-,8,Weymouth Precinct 8,949,705,1703
+Weymouth,-,9,Weymouth Precinct 9,655,543,1233
+Weymouth,-,9A,Weymouth Precinct 9A,237,249,507
+Whately,-,1,Whately Precinct 1,717,343,1094
+Whitman,-,1,Whitman Precinct 1,1137,1172,2376
+Whitman,-,2,Whitman Precinct 2,933,1054,2052
+Whitman,-,3,Whitman Precinct 3,1017,1077,2167
+Whitman,-,4,Whitman Precinct 4,1026,1034,2128
+Wilbraham,-,A,Wilbraham Precinct A,1227,1027,2346
+Wilbraham,-,B,Wilbraham Precinct B,1115,1023,2220
+Wilbraham,-,C,Wilbraham Precinct C,1121,1103,2317
+Wilbraham,-,D,Wilbraham Precinct D,1185,1137,2422
+Williamsburg,-,1,Williamsburg Precinct 1,1373,366,1833
+Williamstown,-,1,Williamstown Precinct 1,1260,203,1512
+Williamstown,-,2,Williamstown Precinct 2,369,40,439
+Williamstown,-,3,Williamstown Precinct 3,1377,252,1691
+Wilmington,-,1,Wilmington Precinct 1,1237,1128,2437
+Wilmington,-,2,Wilmington Precinct 2,1195,1107,2396
+Wilmington,-,3,Wilmington Precinct 3,1157,1080,2314
+Wilmington,-,4,Wilmington Precinct 4,1243,1159,2489
+Wilmington,-,5,Wilmington Precinct 5,1178,1015,2265
+Wilmington,-,6,Wilmington Precinct 6,1196,1203,2499
+Winchendon,-,1,Winchendon Precinct 1,626,962,1657
+Winchendon,-,2,Winchendon Precinct 2,771,967,1794
+Winchendon,-,3,Winchendon Precinct 3,762,1004,1815
+Winchester,-,1,Winchester Precinct 1,1209,443,1722
+Winchester,-,2,Winchester Precinct 2,949,398,1412
+Winchester,-,3,Winchester Precinct 3,1413,349,1843
+Winchester,-,4,Winchester Precinct 4,1227,472,1773
+Winchester,-,5,Winchester Precinct 5,1113,547,1740
+Winchester,-,6,Winchester Precinct 6,1123,534,1758
+Winchester,-,7,Winchester Precinct 7,1223,445,1762
+Winchester,-,8,Winchester Precinct 8,842,462,1386
+Windsor,-,1,Windsor Precinct 1,338,206,561
+Winthrop,-,1,Winthrop Precinct 1,832,756,1647
+Winthrop,-,2,Winthrop Precinct 2,799,803,1660
+Winthrop,-,3,Winthrop Precinct 3,942,589,1588
+Winthrop,-,4,Winthrop Precinct 4,667,509,1210
+Winthrop,-,5,Winthrop Precinct 5,969,736,1768
+Winthrop,-,6,Winthrop Precinct 6,945,583,1578
+Woburn,1,1,Woburn Ward 1 Precinct 1,808,480,1339
+Woburn,1,2,Woburn Ward 1 Precinct 2,853,498,1408
+Woburn,1,2A,Woburn Ward 1 Precinct 2A,55,27,87
+Woburn,2,1,Woburn Ward 2 Precinct 1,936,689,1698
+Woburn,2,2,Woburn Ward 2 Precinct 2,808,491,1350
+Woburn,3,1,Woburn Ward 3 Precinct 1,921,586,1563
+Woburn,3,2,Woburn Ward 3 Precinct 2,900,901,1870
+Woburn,4,1,Woburn Ward 4 Precinct 1,886,765,1713
+Woburn,4,2,Woburn Ward 4 Precinct 2,812,548,1398
+Woburn,5,1,Woburn Ward 5 Precinct 1,997,531,1585
+Woburn,5,2,Woburn Ward 5 Precinct 2,855,605,1511
+Woburn,6,1,Woburn Ward 6 Precinct 1,623,386,1056
+Woburn,6,2,Woburn Ward 6 Precinct 2,861,705,1633
+Woburn,7,1,Woburn Ward 7 Precinct 1,940,818,1827
+Woburn,7,2,Woburn Ward 7 Precinct 2,1097,843,2030
+Worcester,1,1,Worcester Ward 1 Precinct 1,607,244,894
+Worcester,1,2,Worcester Ward 1 Precinct 2,1307,756,2138
+Worcester,1,3,Worcester Ward 1 Precinct 3,733,342,1131
+Worcester,1,4,Worcester Ward 1 Precinct 4,1275,520,1868
+Worcester,1,5,Worcester Ward 1 Precinct 5,912,576,1542
+Worcester,1,6,Worcester Ward 1 Precinct 6,1224,808,2109
+Worcester,10,1,Worcester Ward 10 Precinct 1,440,192,659
+Worcester,10,2,Worcester Ward 10 Precinct 2,561,190,817
+Worcester,10,3,Worcester Ward 10 Precinct 3,503,213,754
+Worcester,10,4,Worcester Ward 10 Precinct 4,386,233,648
+Worcester,10,5,Worcester Ward 10 Precinct 5,403,233,665
+Worcester,10,6,Worcester Ward 10 Precinct 6,348,231,610
+Worcester,2,1,Worcester Ward 2 Precinct 1,1158,612,1835
+Worcester,2,2,Worcester Ward 2 Precinct 2,909,534,1509
+Worcester,2,3,Worcester Ward 2 Precinct 3,984,547,1587
+Worcester,2,4,Worcester Ward 2 Precinct 4,792,319,1146
+Worcester,2,5,Worcester Ward 2 Precinct 5,600,317,954
+Worcester,2,6,Worcester Ward 2 Precinct 6,829,430,1301
+Worcester,3,1,Worcester Ward 3 Precinct 1,427,228,677
+Worcester,3,2,Worcester Ward 3 Precinct 2,327,140,481
+Worcester,3,3,Worcester Ward 3 Precinct 3,825,515,1406
+Worcester,3,4,Worcester Ward 3 Precinct 4,490,191,711
+Worcester,3,5,Worcester Ward 3 Precinct 5,823,321,1197
+Worcester,3,6,Worcester Ward 3 Precinct 6,784,395,1233
+Worcester,4,1,Worcester Ward 4 Precinct 1,333,183,532
+Worcester,4,2,Worcester Ward 4 Precinct 2,313,171,512
+Worcester,4,2A,Worcester Ward 4 Precinct 2A,196,92,307
+Worcester,4,3,Worcester Ward 4 Precinct 3,459,154,647
+Worcester,4,4,Worcester Ward 4 Precinct 4,674,390,1106
+Worcester,4,5,Worcester Ward 4 Precinct 5,760,412,1223
+Worcester,4,6,Worcester Ward 4 Precinct 6,689,489,1217
+Worcester,5,1,Worcester Ward 5 Precinct 1,467,238,728
+Worcester,5,2,Worcester Ward 5 Precinct 2,761,529,1339
+Worcester,5,3,Worcester Ward 5 Precinct 3,936,723,1726
+Worcester,5,4,Worcester Ward 5 Precinct 4,878,543,1493
+Worcester,5,5,Worcester Ward 5 Precinct 5,805,600,1479
+Worcester,5,6,Worcester Ward 5 Precinct 6,690,460,1194
+Worcester,6,1,Worcester Ward 6 Precinct 1,322,137,471
+Worcester,6,2,Worcester Ward 6 Precinct 2,451,260,730
+Worcester,6,3,Worcester Ward 6 Precinct 3,391,235,658
+Worcester,6,4,Worcester Ward 6 Precinct 4,108,38,149
+Worcester,6,5,Worcester Ward 6 Precinct 5,521,379,943
+Worcester,6,6,Worcester Ward 6 Precinct 6,832,568,1435
+Worcester,7,1,Worcester Ward 7 Precinct 1,853,427,1328
+Worcester,7,2,Worcester Ward 7 Precinct 2,724,465,1232
+Worcester,7,3,Worcester Ward 7 Precinct 3,548,318,904
+Worcester,7,4,Worcester Ward 7 Precinct 4,835,481,1371
+Worcester,7,5,Worcester Ward 7 Precinct 5,513,425,962
+Worcester,7,5A,Worcester Ward 7 Precinct 5A,188,104,309
+Worcester,7,6,Worcester Ward 7 Precinct 6,763,503,1318
+Worcester,8,1,Worcester Ward 8 Precinct 1,346,228,602
+Worcester,8,2,Worcester Ward 8 Precinct 2,302,212,539
+Worcester,8,3,Worcester Ward 8 Precinct 3,251,73,339
+Worcester,8,4,Worcester Ward 8 Precinct 4,446,211,697
+Worcester,8,5,Worcester Ward 8 Precinct 5,392,275,689
+Worcester,8,6,Worcester Ward 8 Precinct 6,388,239,642
+Worcester,9,1,Worcester Ward 9 Precinct 1,690,302,1050
+Worcester,9,2,Worcester Ward 9 Precinct 2,1155,459,1685
+Worcester,9,3,Worcester Ward 9 Precinct 3,596,326,963
+Worcester,9,4,Worcester Ward 9 Precinct 4,1232,617,1917
+Worcester,9,5,Worcester Ward 9 Precinct 5,1376,636,2109
+Worcester,9,6,Worcester Ward 9 Precinct 6,1092,609,1769
+Worthington,-,1,Worthington Precinct 1,536,295,878
+Wrentham,-,1,Wrentham Precinct 1,955,919,1950
+Wrentham,-,2,Wrentham Precinct 2,1005,879,1980
+Wrentham,-,3,Wrentham Precinct 3,990,867,1935
+Wrentham,-,4,Wrentham Precinct 4,1007,955,2046
+Yarmouth,-,1,Yarmouth Precinct 1,1315,865,2253
+Yarmouth,-,2,Yarmouth Precinct 2,1282,833,2176
+Yarmouth,-,3,Yarmouth Precinct 3,841,749,1629
+Yarmouth,-,4,Yarmouth Precinct 4,1091,795,1927
+Yarmouth,-,5,Yarmouth Precinct 5,897,837,1786
+Yarmouth,-,6,Yarmouth Precinct 6,1053,700,1807
+Yarmouth,-,7,Yarmouth Precinct 7,1369,858,2285
+Yarmouth,-,8,Yarmouth Precinct 8,761,572,1375
+Yarmouth,-,8A,Yarmouth Precinct 8A,137,127,269
