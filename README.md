@@ -4,5 +4,7 @@ This repository contains a collection of precinct-level election returns, along 
 
 All states uploaded to this repository contain results for the 2024 presidential election. Some states also contain down-ballot data, including senatorial/congressional races and ballot initiatives. Click on each individual state to see what data is available.
 
+Some data will come pre-joined with their precinct boundaries, and others will need to be joined with their respective .csv file.
+
 # Disclaimer
 I can make no guarantees to the accuracy of this data. While I have taken care to ensure the data reflects the true results, it may contain minor errors or omissions due to variations in reporting or processing. Please verify independently before use. I am not liable for any issues arising from the use of this data.
