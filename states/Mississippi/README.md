@@ -1,0 +1,5 @@
+# Methodology
+
+This data contains results for U.S. President.
+
+The updated 2024 shapefile was created using the 2023 Shapefile from [Redistricting Data Hub](https://redistrictingdatahub.org/dataset/mississippi-2023-general-election-precinct-level-results-and-boundaries/) as a baseline. Several counties changed or consolidated their precincts since last year, so many calls were made to various county officials to confirm which changes had been made. Precinct-level election results were obtained primarily from the Mississippi Secretary of State's [county recapitulation reports](https://www.sos.ms.gov/elections-voting/2024-general-election). Some counties were missing from this site, so their data was obtained from their respective county office. This state took a tremendous amount of effort to complete, so if you have more specific questions about my methodology feel free to contact me by email at jmetcalf@scu.edu.
