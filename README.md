@@ -6,5 +6,8 @@ All states uploaded to this repository contain results for the 2024 presidential
 
 Some data will come pre-joined with their precinct boundaries, and others will need to be joined with their respective .csv file.
 
+# Usage and Crediting
+This data is freely available for anyone to use. If you do use data from this repository, I ask that you either provide me with proper credit, or give credit to the person who collected the data (as outlined in each state's methodology).
+
 # Disclaimer
 I can make no guarantees to the accuracy of this data. While I have taken care to ensure the data reflects the true results, it may contain minor errors or omissions due to variations in reporting or processing. Please verify independently before use. I am not liable for any issues arising from the use of this data.
