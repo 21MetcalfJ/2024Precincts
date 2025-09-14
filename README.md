@@ -11,5 +11,8 @@ Some data will come pre-joined with their precinct boundaries, and others will n
 # Usage and Crediting
 This data is freely available for anyone to use. If you do use data from this repository, I ask that you either provide me with proper credit, or give credit to the person who collected the data (as outlined in each state's methodology).
 
+Some data in this repository is either pulled directly from or uses the work of the [Redistricting Data Hub](https://redistrictingdatahub.org/). For the states that use this data, please refer to their [Terms and Conditions](https://redistrictingdatahub.org/terms-and-conditions/) and act accordingly. 
+
+
 # Disclaimer
 I can make no guarantees to the accuracy of this data. While I have taken care to ensure the data reflects the true results, it may contain minor errors or omissions due to variations in reporting or processing. Please verify independently before use. I am not liable for any issues arising from the use of this data.
